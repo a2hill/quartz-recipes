@@ -8,6 +8,7 @@ import Head from "./Head"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
 import Spacer from "./Spacer"
+import SwipeNavigation from "./SwipeNavigation"
 import TableOfContents from "./TableOfContents"
 import TagList from "./TagList"
 import Graph from "./Graph"
@@ -33,6 +34,7 @@ export {
   Graph,
   Backlinks,
   Search,
+  SwipeNavigation,
   Footer,
   DesktopOnly,
   MobileOnly,

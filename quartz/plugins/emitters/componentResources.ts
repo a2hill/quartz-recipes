@@ -4,8 +4,6 @@ import { QuartzEmitterPlugin } from "../types"
 // @ts-ignore
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
-import recipeSwipe from "../../components/scripts/recipeSwipe.inline"
-// @ts-ignore
 import plausibleScript from "../../components/scripts/plausible.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
@@ -76,8 +74,6 @@ function addGlobalPageResources(
     componentResources.afterDOMLoaded.push(popoverScript)
     componentResources.css.push(popoverStyle)
   }
-
-  componentResources.afterDOMLoaded.push(recipeSwipe);
 
   if (cfg.analytics?.provider === "google") {
     const tagId = cfg.analytics.tagId
