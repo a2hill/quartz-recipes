@@ -1,5 +1,5 @@
 ---
-up: "[[Cooking MOC]]"
+up: "[[index]]"
 tags:
   - cooking/breakfast/sandwiches
   - cooking/sausage
