@@ -1,5 +1,5 @@
 ---
-up: "[[Cooking]]"
+up: "[[index]]"
 tags:
   - breakfast/sandwiches
   - cooking/sausage

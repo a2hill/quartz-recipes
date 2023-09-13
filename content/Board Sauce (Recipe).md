@@ -1,5 +1,5 @@
 ---
-up: "[[Cooking]]"
+up: "[[index]]"
 tags:
   - meat/sauce
 prep time: "10"

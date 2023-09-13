@@ -1,5 +1,5 @@
 ---
-up: "[[Cooking]]"
+up: "[[index]]"
 tags:
   - meat/sauce
 source: https://amazingribs.com/tested-recipes/other-fun-sauce-recipes/board-sauce-recipe-adam-perry-lang/
