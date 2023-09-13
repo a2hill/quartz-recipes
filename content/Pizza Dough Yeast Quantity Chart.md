@@ -1,8 +1,7 @@
 ---
 up: "[[Pizza MOC]]"
 tags:
-  - sources
-  - cooking/pizza/dough
+  - pizza/dough
 source: https://www.pizzamaking.com/forum/index.php?PHPSESSID=1cpup4r3h68lmuvu3qoovrffg6&topic=26831.msg393271#msg393271
 participants:
   - TXCraig1

@@ -1,11 +1,10 @@
 ---
-up: "[[index]]"
+up: "[[Cooking]]"
 tags:
   - cooking/vegetable
-  - sources/recipe
-  - cooking/side
-  - cooking/potato
-  - cooking/cabbage
+  - side
+  - potato
+  - cabbage
 prep time: 15 minutes
 cook time: 2 hours 10 minutes
 source: "Ottolenghi Test Kitchen: Shelf Love"

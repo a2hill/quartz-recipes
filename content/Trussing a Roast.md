@@ -1,5 +1,5 @@
 ---
-up: "[[index]]"
+up: "[[Cooking]]"
 tags:
   - cooking/technique
 source: https://youtu.be/xdGy5VXby14

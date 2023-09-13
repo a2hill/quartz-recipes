@@ -1,7 +1,7 @@
 ---
-up: "[[index]]"
+up: "[[Cooking]]"
 tags:
-  - cooking/burgers/smashed
+  - burgers/smashed
 prep time: 
 cook time: 
 draft: true

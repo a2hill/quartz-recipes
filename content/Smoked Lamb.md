@@ -1,8 +1,8 @@
 ---
-up: "[[index]]"
+up: "[[Cooking]]"
 tags:
   - cooking/smoking
-  - cooking/meat/lamb
+  - meat/lamb
 prep time: 3 hours to overnight
 cook time: ???
 related:

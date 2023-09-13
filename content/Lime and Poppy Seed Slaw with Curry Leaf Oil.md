@@ -1,8 +1,8 @@
 ---
-up: "[[index]]"
+up: "[[Cooking]]"
 tags:
   - cooking/slaw
-  - cooking/side
+  - side
   - cooking/vegetarian
 prep time: 25 minutes
 cook time: 40 minutes

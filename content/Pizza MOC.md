@@ -1,7 +1,7 @@
 ---
-up: "[[index]]"
+up: "[[Cooking]]"
 tags:
-  - cooking/pizza
+  - pizza
 title: Pizza
 ---
 ```dataview

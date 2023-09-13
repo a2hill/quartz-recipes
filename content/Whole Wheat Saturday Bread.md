@@ -1,7 +1,7 @@
 ---
-up: "[[index]]"
+up: "[[Cooking]]"
 tags:
-  - cooking/baking/bread
+  - baking/bread
 draft: true
 ---
 Same recipe as the Whole Wheat Saturday bread with the following changes:

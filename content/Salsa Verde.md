@@ -1,7 +1,7 @@
 ---
-up: "[[index]]"
+up: "[[Cooking]]"
 tags:
-  - cooking/mexican/salsa
+  - mexican/salsa
 ---
 # Notes
 ## 8/11/23 - Really good salsa

@@ -1,6 +1,6 @@
 ---
-up: "[[index]]"
+up: "[[Cooking]]"
 tags:
-  - cooking/camping
+  - camping
 source: https://www.freshoffthegrid.com/one-pot-chili-mac/
 ---

@@ -1,7 +1,7 @@
 ---
-up: "[[index]]"
+up: "[[Cooking]]"
 tags:
-  - cooking/meat/sauce
+  - meat/sauce
 source: https://amazingribs.com/tested-recipes/other-fun-sauce-recipes/board-sauce-recipe-adam-perry-lang/
 related:
   - "[[Board Sauce (Concept)]]"

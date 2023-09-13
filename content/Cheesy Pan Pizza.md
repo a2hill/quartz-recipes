@@ -1,8 +1,8 @@
 ---
 up: "[[Pizza MOC]]"
 tags:
-  - cooking/pizza/pan
-  - cooking/pizza/detroit
+  - pizza/pan
+  - pizza/detroit
 prep time: 
 cook time: 15 minutes
 source: Pizza Czar

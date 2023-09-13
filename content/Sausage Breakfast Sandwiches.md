@@ -1,7 +1,7 @@
 ---
-up: "[[index]]"
+up: "[[Cooking]]"
 tags:
-  - cooking/breakfast/sandwiches
+  - breakfast/sandwiches
   - cooking/sausage
 cook time: 
 prep time: 

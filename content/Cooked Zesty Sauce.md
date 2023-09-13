@@ -1,7 +1,7 @@
 ---
 up: "[[Pizza MOC]]"
 tags:
-  - cooking/pizza/sauce
+  - pizza/sauce
 prep time: 
 cook time: 
 source: 
