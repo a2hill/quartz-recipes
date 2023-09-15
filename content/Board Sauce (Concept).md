@@ -4,7 +4,7 @@ tags:
   - meat/sauce
 source: https://amazingribs.com/tested-recipes/other-fun-sauce-recipes/board-sauce-recipe-adam-perry-lang/
 related:
-  - "[[Board Sauce (Concept)]]"
+  - "[[Board Sauce (Recipe)]]"
 ---
 See the recipe: [[Board Sauce (Recipe)]]
 
