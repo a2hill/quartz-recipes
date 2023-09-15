@@ -34,7 +34,8 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
         () => {
           return (tree, file) => {
             const curSlug = simplifySlug(file.data.slug!)
-            const outgoing: Set<SimpleSlug> = new Set()
+            // File may contain links that are not present in the HTML AST tree (like frontmatter links)
+            const outgoing: Set<SimpleSlug> = new Set(file.data.links)
 
             const transformOptions: TransformOptions = {
               strategy: opts.markdownLinkResolution,
@@ -108,6 +109,52 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
           }
         },
       ]
+    },
+    markdownPlugins(ctx) {
+      return [() => {
+        // Add links from frontmatter
+        // TODO: Should probably just look to see if there is a remark link plugin to do this
+        return (_, file) => {
+          const curSlug = simplifySlug(file.data.slug!)
+          // Check to see if there are any existing links, just to be safe
+          const outgoing: Set<SimpleSlug> = new Set(file.data.links)
+
+          const transformOptions: TransformOptions = {
+            strategy: opts.markdownLinkResolution,
+            allSlugs: ctx.allSlugs,
+          }
+          const unprocessed: Set<string> = new Set();
+          if (file.data.frontmatter?.up) {
+            unprocessed.add(file.data.frontmatter.up)
+          }
+          if (file.data.frontmatter?.related) {
+            file.data.frontmatter?.related.forEach((element: string) => {
+              unprocessed.add(element);
+            });
+          }
+
+          for(const linkName of unprocessed) {
+            const dest = transformLink(
+              file.data.slug!,
+              linkName,
+              transformOptions,
+            )
+            // url.resolve is considered legacy
+            // WHATWG equivalent https://nodejs.dev/en/api/v18/url/#urlresolvefrom-to
+            const url = new URL(dest, `https://base.com/${curSlug}`)
+            const canonicalDest = url.pathname
+            const [destCanonical, _destAnchor] = splitAnchor(canonicalDest)
+  
+            // need to decodeURIComponent here as WHATWG URL percent-encodes everything
+            const simple = decodeURIComponent(
+              simplifySlug(destCanonical as FullSlug)
+            ) as SimpleSlug
+            outgoing.add(simple);
+          }
+
+          file.data.links = [...outgoing];
+        }
+      }]
     },
   }
 }

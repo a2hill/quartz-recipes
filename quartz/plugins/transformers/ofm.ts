@@ -9,7 +9,7 @@ import path from "path"
 import { JSResource } from "../../util/resources"
 // @ts-ignore
 import calloutScript from "../../components/scripts/callout.inline.ts"
-import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
+import { FilePath, RelativeURL, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
 import { toHast } from "mdast-util-to-hast"
 import { toHtml } from "hast-util-to-html"
 import { PhrasingContent } from "mdast-util-find-and-replace/lib"
@@ -252,6 +252,31 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                 ],
               }
             })
+          }
+        });
+        // Add links from frontmatter
+        // TODO: Consider using an existing plugin for this: https://github.com/landakram/remark-wiki-link
+        plugins.push(() => {
+          return (_, file) => {
+            const getUrl = (linkName: string) => {
+              // Note: this won't parse links with '()' in them despite those being valid Obsidian titles
+              let [_, rawFp, rawHeader] = wikilinkRegex.exec(linkName) ?? [];
+              const fp = rawFp?.trim() ?? ""
+              const anchor = rawHeader?.trim() ?? ""
+              const url = fp + anchor
+              return url;
+            }
+            if (file.data.frontmatter?.up) {
+              file.data.frontmatter.up = getUrl(file.data.frontmatter.up);
+            }
+            if (file.data.frontmatter?.related && Array.isArray(file.data.frontmatter?.related)) {
+              const links: Set<string> = new Set();
+              for (const link of file.data.frontmatter?.related) {
+                const url = getUrl(link);
+                links.add(url);
+              }
+              file.data.frontmatter.related = [...links];
+            }
           }
         })
       }

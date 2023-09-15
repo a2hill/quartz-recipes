@@ -64,7 +64,7 @@ declare module "vfile" {
   interface DataMap {
     frontmatter: { [key: string]: any } & {
       title: string
-      tags: string[]
+      tags: string[];
     }
   }
 }
