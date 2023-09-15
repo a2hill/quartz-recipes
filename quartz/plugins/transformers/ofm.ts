@@ -440,7 +440,24 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
       return plugins
     },
     htmlPlugins() {
-      return [rehypeRaw]
+      return [
+        rehypeRaw, 
+        () => {
+          // Plugin to prevent task items (aka lists with checkboxes) from being disabled (non-interactive)
+          return (tree, _) => {
+            visit(tree, "element", (node) => {
+              if (
+                node.tagName === "input" &&
+                node.properties &&
+                typeof node.properties.type === "string" &&
+                node.properties.type === "checkbox"
+              ) {
+                node.properties.disabled = false
+              }
+            })
+          }
+        }
+      ]
     },
     externalResources() {
       const js: JSResource[] = []
