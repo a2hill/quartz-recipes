@@ -20,20 +20,20 @@ ___
 
 ___
 # Ingredients
-* 2 heads of garlic, skin on and top fifth cut off to expose the cloves, plus 3 extra peeled cloves
-* 4 tbsp plus 1 tsp/65ml olive oil
-* 1 lb/450g red potatoes (about 4), skin on and sliced ⅛ inch/3mm thick
-* 2 shallots, finely sliced on a mandolin or by hand (¾ cup/130g)
-* 2½ tsp smoked paprika
-* 1 sweetheart/hispi cabbage or green cabbage, base trimmed, thick stalks removed, and leaves separated (14 oz/400g)
-* 1 cup/20g basil, finely chopped
-* ½ cup/10g tarragon leaves, finely chopped 
-* 1 cup/20g parsley, finely chopped
-* 5 green onions, finely sliced (mounded ¾ cup/50g)
-* 2 lemons: finely grate the zest to get 1½ tbsp and then juice to get 1 tbsp
-* ¾ cup plus 1 tbsp/200g whole-milk ricotta
-* 1⅓ cups/ 150g coarsely grated Gruyère
-* 1 cup/240ml chicken or vegetable stock salt and black pepper
+* [ ] 2 heads of garlic, skin on and top fifth cut off to expose the cloves, plus 3 extra peeled cloves
+* [ ] 4 tbsp plus 1 tsp/65ml olive oil
+* [ ] 1 lb/450g red potatoes (about 4), skin on and sliced ⅛ inch/3mm thick
+* [ ] 2 shallots, finely sliced on a mandolin or by hand (¾ cup/130g)
+* [ ] 2½ tsp smoked paprika
+* [ ] 1 sweetheart/hispi cabbage or green cabbage, base trimmed, thick stalks removed, and leaves separated (14 oz/400g)
+* [ ] 1 cup/20g basil, finely chopped
+* [ ] ½ cup/10g tarragon leaves, finely chopped 
+* [ ] 1 cup/20g parsley, finely chopped
+* [ ] 5 green onions, finely sliced (mounded ¾ cup/50g)
+* [ ] 2 lemons: finely grate the zest to get 1½ tbsp and then juice to get 1 tbsp
+* [ ] ¾ cup plus 1 tbsp/200g whole-milk ricotta
+* [ ] 1⅓ cups/ 150g coarsely grated Gruyère
+* [ ] 1 cup/240ml chicken or vegetable stock salt and black pepper
 ___
 # Method
 1. ﻿﻿﻿Preheat the oven to 425°F.

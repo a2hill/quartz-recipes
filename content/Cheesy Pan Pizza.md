@@ -30,17 +30,17 @@ A take on a Pizza Hut personal pan pizza from the 80's
 * Do it Detroit style, sauce on top
 ---
 # Ingredients
-* 650g [[Butter Crust Pan Pizza Dough]], par-baked and ready to top
-* 102g Tomato Sauce
+* [ ] 650g [[Butter Crust Pan Pizza Dough]], par-baked and ready to top
+* [ ] 102g Tomato Sauce
 	* Robust Tomato Sauce from the book
 	* Spicy Grandma Sauce from the book
-* Pinch dried wild Sicilian oregano, stems removed
-* Pinch dried Calabrian chile flakes
-* 25g Parmigiano-Reggiano, finely grated
-* 25g Pecorino-Romano, finely grated
-* 60g fresh mozzarella
-* 230g low-moisture part-skim mozzarella, shredded
-* 115g low-moisture whole milk mozzarella, shredded
+* [ ] Pinch dried wild Sicilian oregano, stems removed
+* [ ] Pinch dried Calabrian chile flakes
+* [ ] 25g Parmigiano-Reggiano, finely grated
+* [ ] 25g Pecorino-Romano, finely grated
+* [ ] 60g fresh mozzarella
+* [ ] 230g low-moisture part-skim mozzarella, shredded
+* [ ] 115g low-moisture whole milk mozzarella, shredded
 ---
 # Method
 1. Preheat the oven with pizza stones to 475°F (250°C).

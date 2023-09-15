@@ -18,14 +18,14 @@ rating: 3
 * Made it with the smoked lamb and it was wonderful
 ---
 # Ingredients
-- 2 pounds meat
-- 6 tablespoons high quality extra virgin olive oil
-- 5 large fresh sage leaves
-- 2 tablespoons fresh thyme leaves, stripped from the stems
-- 1 clove of garlic
-- ½ fresh red jalapeño
-- ¼ teaspoon coarsely ground black pepper
-- **Optional**. You can use many other fresh herbs such as tarragon, oregano, bay leaf, parsley, cilantro, basil, mint. I am especially fond of black garlic.
+- [ ] 2 pounds meat
+- [ ] 6 tablespoons high quality extra virgin olive oil
+- [ ] 5 large fresh sage leaves
+- [ ] 2 tablespoons fresh thyme leaves, stripped from the stems
+- [ ] 1 clove of garlic
+- [ ] ½ fresh red jalapeño
+- [ ] ¼ teaspoon coarsely ground black pepper
+- [ ] **Optional**. You can use many other fresh herbs such as tarragon, oregano, bay leaf, parsley, cilantro, basil, mint. I am especially fond of black garlic.
 ---
 # Method
 1. coarsely chop the sage, thyme, garlic, jalapeño, and black pepper, and put it in a coffee cup. Mince or press the garlic and dump it in. Drizzle the oil on the pile and let it sit while you cook so the oil can draw out some of the flavor.

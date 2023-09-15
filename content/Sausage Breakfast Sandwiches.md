@@ -21,11 +21,11 @@ Makes 2 breakfast sandwiches
 * Homemade sausage is better than store-bought
 ---
 # Ingredients
-* Sausage (preferably homemade)
-* 2 slices American Cheese, folded in half to make 4 slices
-* 3 eggs
-* Bun/Rolls (see notes)
-* Mayo
+* [ ] Sausage (preferably homemade)
+* [ ] 2 slices American Cheese, folded in half to make 4 slices
+* [ ] 3 eggs
+* [ ] Bun/Rolls (see notes)
+* [ ] Mayo
 ---
 # Method
 1. Prep sausage

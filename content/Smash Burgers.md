@@ -29,11 +29,11 @@ Makes two quarter-pound smash burgers
 * Yellow mustard
 ---
 # Ingredients
-* 1/2 White onion, diced
-* Yellow mustard
-* Cheese (see notes)
-* Sliced pickles
-* 
+* [ ] 1/2 White onion, diced
+* [ ] Yellow mustard
+* [ ] Cheese (see notes)
+* [ ] Sliced pickles
+* [ ] 
 ---
 # Method
 1. Heat griddle to as hot as it gets

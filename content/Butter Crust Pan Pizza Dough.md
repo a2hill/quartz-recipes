@@ -52,11 +52,11 @@ Butter Crust Pan Dough Recipe adapted for a single 650g pizza suitable for a 12"
 * Get the dough a little more stretched into the corners
 ---
 # Ingredients
-* 365g high-protein bread flour
-* 11g sea salt
-* 237g 60-72 degree water
-* .4g yeast
-* 79g unsalted butter; divided
+* [ ] 365g high-protein bread flour
+* [ ] 11g sea salt
+* [ ] 237g 60-72 degree water
+* [ ] .4g yeast
+* [ ] 79g unsalted butter; divided
 ---
 # Method
 1. Weigh out each ingredient in separate containers.

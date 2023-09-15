@@ -23,35 +23,35 @@ Serves 6, as a side
 
 # Ingredients
 
-- 1 white cabbage (1 lb 14 oz/ 850g), core removed and head finely sliced (7¾ cups/700g)
-- 1-2 carrots (6⅓ oz/180g), peeled, halved crosswise, then thinly sliced and julienned
-- 1 red onion (4½ oz/120g), halved and very thinly sliced
-- ¾ cup/15g cilantro leaves, with some stem attached
-- ¼ cup/5g mint leaves
-- salt and black pepper
+- [ ] 1 white cabbage (1 lb 14 oz/ 850g), core removed and head finely sliced (7¾ cups/700g)
+- [ ] 1-2 carrots (6⅓ oz/180g), peeled, halved crosswise, then thinly sliced and julienned
+- [ ] 1 red onion (4½ oz/120g), halved and very thinly sliced
+- [ ] ¾ cup/15g cilantro leaves, with some stem attached
+- [ ] ¼ cup/5g mint leaves
+- [ ] salt and black pepper
 
 ## TURMERIC CASHEWS
 
-- 2 tbsp light brown sugar
-- 2½ tsp olive oil
-- ¾ tsp ground turmeric
-- 1⅓ cups/200g roasted and salted cashews
-- 2 tsp cumin seeds
+- [ ] 2 tbsp light brown sugar
+- [ ] 2½ tsp olive oil
+- [ ] ¾ tsp ground turmeric
+- [ ] 1⅓ cups/200g roasted and salted cashews
+- [ ] 2 tsp cumin seeds
 
 ## CURRY LEAF OIL
 
-- 1 small Fresno chile, thinly sliced, seeds and all (2 tbsp/10g)
-- 3 tbsp olive oil
-- 20 fresh curry leaves (from 2 sprigs)
+- [ ] 1 small Fresno chile, thinly sliced, seeds and all (2 tbsp/10g)
+- [ ] 3 tbsp olive oil
+- [ ] 20 fresh curry leaves (from 2 sprigs)
 
 ## LIME DRESSING
 
-- 5 tbsp/70ml lime juice (from about 4 limes)
-- 2 tsp Dijon mustard
-- 2 garlic cloves, minced
-- 1 tbsp poppy seeds
-- ¼ tsp salt
-- 5 tbsp/75ml olive oil
+- [ ] 5 tbsp/70ml lime juice (from about 4 limes)
+- [ ] 2 tsp Dijon mustard
+- [ ] 2 garlic cloves, minced
+- [ ] 1 tbsp poppy seeds
+- [ ] ¼ tsp salt
+- [ ] 5 tbsp/75ml olive oil
 
 ---
 

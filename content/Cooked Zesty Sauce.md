@@ -16,17 +16,17 @@ participants: []
 
 ___
 # Ingredients
-* 2 tablespoons (30ml) extra-virgin olive oil
-* 3 medium cloves garlic, minced
-* 1.5 t dried oregano
-* Dash red pepper flakes
-* 1 (28-ounce; 800g) can high-quality peeled tomatoes
-* 1 t granulated garlic powder
-* 1 t granulated onion powder
-* 3/4 t sugar
-* anchovy paste?
-* basil?
-* Kosher salt, to taste
+* [ ] 2 tablespoons (30ml) extra-virgin olive oil
+* [ ] 3 medium cloves garlic, minced
+* [ ] 1.5 t dried oregano
+* [ ] Dash red pepper flakes
+* [ ] 1 (28-ounce; 800g) can high-quality peeled tomatoes
+* [ ] 1 t granulated garlic powder
+* [ ] 1 t granulated onion powder
+* [ ] 3/4 t sugar
+* [ ] anchovy paste?
+* [ ] basil?
+* [ ] Kosher salt, to taste
 ___
 # Method
 1. Heat 2 tablespoons (30ml) olive oil in a medium saucepan over medium heat until shimmering.
