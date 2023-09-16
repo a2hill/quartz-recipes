@@ -10,14 +10,13 @@ related:
   - "[[Amazing Ribs Lamb Paste]]"
 draft: true
 ---
-# Notes
-## 2023-04-08
-* First time cooking this
-### Liked
-* Board sauce was excellent
-### Disliked
-
-### Next Time
+> [!summary]- Notes
+> > [!note]+ 2023-04-08
+> > * First time cooking this
+> > # Liked
+> > * Board sauce was excellent
+> > # Disliked
+> > # Next Time
 
 ---
 # Ingredients

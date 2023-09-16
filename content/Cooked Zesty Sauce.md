@@ -8,13 +8,11 @@ source:
 participants: []
 ---
 # Description
----
-# Notes
 * Same sauce as from Kenji's Detroit Style Pizza
   * Not the same as his Sicilian, but I like it better
-* anchovy paste?
-
-___
+---
+> [!summary]- Notes
+> anchovy paste?
 # Ingredients
 * [ ] 2 tablespoons (30ml) extra-virgin olive oil
 * [ ] 3 medium cloves garlic, minced
