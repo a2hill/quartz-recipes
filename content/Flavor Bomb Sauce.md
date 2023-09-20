@@ -5,8 +5,8 @@ tags:
 - tomato-sauce
 prep time: 
 cook time: 
-source: <!-- url of recipe of available -->
-participants: [] <!-- leave blank -->
+source:
+participants: []
 ---
 # Description
 
