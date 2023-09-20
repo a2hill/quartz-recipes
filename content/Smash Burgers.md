@@ -33,11 +33,18 @@ Makes two quarter-pound smash burgers
 * [ ] Yellow mustard
 * [ ] Cheese (see notes)
 * [ ] Sliced pickles
-* [ ] 
+* [ ] Buns (ideally potoato or brioche if available)
 ---
 # Method
 1. Heat griddle to as hot as it gets
 2. Divide beef into two 2-ounce balls
 3. 
+
+---
+# Tools
+* Spatula (non-slotted)
+* Griddle
+* Grill press
+  * Optional. Could use another tool's handle and the spatula to press the patty in a bind.
 
 ---
