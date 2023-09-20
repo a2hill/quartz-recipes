@@ -4,7 +4,7 @@ tags:
   - burgers/smashed
 prep time: 
 cook time: 
-draft: true
+draft: false
 ---
 # Description
 Makes two quarter-pound smash burgers

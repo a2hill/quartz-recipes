@@ -1,8 +1,9 @@
 ---
 up: "[[index]]"
 tags:
-  - cooking/cookies
-  - cooking/pumpkin
+  - baking/cookies
+  - pumpkin
+  - fall
 prep time: 
 cook time: 
 source: https://cambreabakes.com/chewy-pumpkin-cookies/
