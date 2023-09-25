@@ -21,9 +21,10 @@ participants: [] <!-- leave blank -->
 ---
 
 # Ingredients
+- [ ] 
 
 ---
 
 # Method
-
+1. 
 ---
