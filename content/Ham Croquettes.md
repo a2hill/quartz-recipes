@@ -8,6 +8,7 @@ tags:
   - chicken
 prep time: 
 cook time: 
+yield: 18 Croquettes
 source: Cúrate
 participants:
   - Katie Button
@@ -19,13 +20,15 @@ Croquetas, a common dish all over Spain, are served hot or room temperature for 
 ---
 
 # Ingredients
+## Béchamel
 - [ ] 4 tablespoons unsalted butter
 - [ ] 1½ cups whole milk
 - [ ] ¼ cup heavy cream
 - [ ] ½ cup very finely chopped onion
 - [ ] ⅓ cup all-purpose flour
+## Fry Coating
 - [ ] 1 cup panko (Japanese bread crumbs)
-- [ ] ⅓ cup all-purpose flour
+- [ ] ⅓ cup all-purpose flour (batter)
 - [ ] 1 large egg
 - [ ] Canola oil, for frying
 
