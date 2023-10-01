@@ -5,6 +5,7 @@ tags:
   - soup
   - chicken
   - stew
+  - pot-pie
 prep time: 15 minutes
 cook time: 1 hour 30 minutes
 source: https://thecozycook.com/chicken-stew/
@@ -12,6 +13,8 @@ participants: []
 ---
 # Description
 This Chicken Stew has juicy chicken in a savory broth with a perfect blend of seasonings, potatoes, and vegetables. It's easy to make on the stove top and is full of homemade flavor!
+
+Could be good as a pot pie filling
 
 ---
 
