@@ -1,3 +1,24 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+input[type="checkbox"] {
+    /* 
+     Quartz styled the checkbox, but this breaks now that we've increased 
+     the size of the checkbox. This stanza returns to the default behavior
+    */
+    appearance: auto;
+
+    // Increase size on mobile platforms for easier tapping
+    width: 1.5em;
+    height: 1.5em;
+
+    &:checked {
+        &::after {
+        /* 
+        Quartz styled the checked style, but this breaks now that we've increased 
+        the size of the checkbox. This stanza returns to the default behavior
+        */
+        content: inherit;
+        }
+    }
+}
