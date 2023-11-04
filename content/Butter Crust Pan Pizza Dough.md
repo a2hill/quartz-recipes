@@ -51,6 +51,8 @@ Butter Crust Pan Dough Recipe adapted for a single 650g pizza suitable for a 12"
 * Try re-configuring without the 18 hour fridge rest
 * Get the dough a little more stretched into the corners
 ## 2023-11-03
+* Didn’t do overnight fridge rest, instead used yeast calculator to do an 8:30-18:30 rise
+* Did 3 hours between each rise step
 ### Liked
 * It took less time
 ### Disliked
@@ -61,6 +63,7 @@ Butter Crust Pan Dough Recipe adapted for a single 650g pizza suitable for a 12"
 * Had lots of irregular puffing during the par bake
 	* Maybe don’t par bake?
 * Crust pulled away from the pan edges during par bake, leaving gaps
+* Even though the crust was overdone, the bottom wasn’t crispy, instead it was a big thick crunch
 ### Next Time
 * try experimenting with a blend of flours, possibly 00, to try and get a lighter crumb
 ---
