@@ -20,6 +20,9 @@ ___
 
 ___
 # Ingredients
+
+^d2dfa0
+
 * [ ] 2 heads of garlic, skin on and top fifth cut off to expose the cloves, plus 3 extra peeled cloves
 * [ ] 4 tbsp plus 1 tsp/65ml olive oil
 * [ ] 1 lb/450g red potatoes (about 4), skin on and sliced ⅛ inch/3mm thick

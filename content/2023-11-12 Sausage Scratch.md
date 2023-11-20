@@ -1,3 +1,7 @@
+---
+tags:
+  - "#sausage"
+---
 7966g Pork Shoulder (fat + meat)
 596 addition fat
 
