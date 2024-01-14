@@ -14,6 +14,10 @@ participants:
 # Description
 This is the ultimate beef wellington recipe. It's perfect for special occasions like Christmas dinner and is sure to impress your guests.
 
+# Notes
+> [!summary]+ Thanksgiving 2023
+> Wellington. Don't roll so much side to side (you'll have extra as it is), and don't roll so much long because you'll want a thicker puff so that it doesn't lose structure, probably don't need all of the mushroom
+
 ---
 
 # Ingredients
