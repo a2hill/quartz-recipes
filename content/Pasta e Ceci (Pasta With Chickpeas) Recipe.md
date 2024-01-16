@@ -18,7 +18,7 @@ Pasta with brothy chickpeas is Italian comfort food at its best.
 # Ingredients
 - [ ] 1/4 cup (60ml) extra-virgin olive oil, plus extra for drizzling
 - [ ] 4 medium garlic cloves (20g), lightly crushed
-- [ ] 1 sprig fresh rosemary
+- [ ] 2 sprigs fresh rosemary
 - [ ] Kosher salt
 - [ ] 1/4 teaspoon red pepper flakes
 - [ ] 2 tablespoons (30g) tomato paste
