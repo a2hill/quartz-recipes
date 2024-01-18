@@ -26,5 +26,6 @@ participants: [] <!-- leave blank -->
 ---
 
 # Method
+<!-- In this section, any time you reference an ingredient (onions, chicken, cheese, garlic, etc.) be sure to bold it. For example 'Add the garlic' becomes 'Add the **garlic**'. Don't forget about things like **salt** **pepper** and **seasonings** which may not have been listed in the ingredients --> 
 1. 
 ---

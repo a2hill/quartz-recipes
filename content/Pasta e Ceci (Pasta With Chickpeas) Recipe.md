@@ -17,11 +17,11 @@ Pasta with brothy chickpeas is Italian comfort food at its best.
 ---
 # Ingredients
 - [ ] 1/4 cup (60ml) extra-virgin olive oil, plus extra for drizzling
-- [ ] 4 medium garlic cloves (20g), lightly crushed
+- [ ] 25g garlic cloves, lightly crushed
 - [ ] 2 sprigs fresh rosemary
 - [ ] Kosher salt
 - [ ] 1/4 teaspoon red pepper flakes
-- [ ] 2 tablespoons (30g) tomato paste
+- [ ] 35g tomato paste
 - [ ] 1/2 cup (120ml) dry white wine
 - [ ] 3 cups (1 pound 2 ounces; 510g) cooked dry chickpeas or two (15-ounce; 425g) cans low-sodium chickpeas, drained and rinsed, divided (see note)
 - [ ] 4 cups (950ml) chickpea cooking liquid, homemade chicken or vegetable stock, or store-bought low-sodium chicken stock, divided (see note)

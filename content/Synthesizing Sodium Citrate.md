@@ -8,6 +8,7 @@ cook time:
 source: https://www.reddit.com/r/AskCulinary/comments/2pxh99/how_to_make_sodium_citrate_from_baking_soda_and/
 participants:
   - u/bigdubb2491
+  - Sharif
 ---
 ## Description
 Initially found this post on reddit ([How to make sodium citrate](https://www.reddit.com/r/AskCulinary/comments/2pxh99/how_to_make_sodium_citrate_from_baking_soda_and/)):

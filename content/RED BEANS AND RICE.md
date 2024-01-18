@@ -6,7 +6,8 @@ tags:
   - beans
   - sausage
   - cajun
-prep time: 8 hours
+  - comfort
+prep time: 8 - 24 hours + 20 minutes
 cook time: 2 hours
 source: Cook’s Illustrated Cookbook
 participants:
@@ -38,8 +39,10 @@ This classic Cajun dish is a hearty and flavorful combination of red beans, ando
 - [ ] Hot sauce (optional)
 
 ---
-
 # Method
-1. Dissolve 3 tablespoons salt in 4 quarts cold water in large bowl or container. Add beans and soak at room temperature for at least 8 hours or up to 24 hours. Drain and rinse well.
-2. Heat bacon in Dutch oven over medium heat, stirring occasionally, until browned and fat is almost fully rendered, 5 to 8 minutes. Add onion, green pepper, and celery and cook, stirring frequently, until vegetables are softened, 6 to 7 minutes. Stir in garlic, thyme, paprika, bay leaves, cayenne, and ¼ teaspoon black pepper and cook until fragrant, about 30 seconds. Stir in beans, water, and broth and bring to boil over high heat. Reduce heat and vigorously simmer, stirring occasionally, until beans are just soft and liquid begins to thicken, 45 to 60 minutes.
-3. Stir in sausage and 1 teaspoon vinegar and cook until liquid is thick and beans are fully tender and creamy, about 30 minutes. Season with salt, pepper, and additional vinegar to taste. Serve over rice, sprinkling with scallions and passing hot sauce separately, if desired.
+1. Dissolve 3 tablespoons salt in 4 quarts cold water in large bowl or container. Add **beans** and soak at room temperature for at least 8 hours or up to 24 hours. Drain and rinse well.
+2. Heat **bacon** in Dutch oven over medium heat, stirring occasionally, until browned and fat is almost fully rendered, 5 to 8 minutes. 
+3. Add **onion**, **green pepper**, and **celery** and cook, stirring frequently, until vegetables are softened, 6 to 7 minutes. 
+4. Stir in **garlic**, **thyme**, **paprika**, **bay leaves**, **cayenne**, and ¼ teaspoon black pepper and cook until fragrant, about 30 seconds. 
+5. Stir in **beans**, **water**, and **broth** and bring to boil over high heat. Reduce heat and vigorously simmer, stirring occasionally, until **beans** are just soft and liquid begins to thicken, 45 to 60 minutes.
+6. Stir in **sausage** and 1 teaspoon **vinegar** and cook until liquid is thick and **beans** are fully tender and creamy, about 30 minutes. Season with **salt**, **pepper**, and additional **vinegar** to taste. Serve over **rice**, sprinkling with **scallions** and passing **hot sauce** separately, if desired.

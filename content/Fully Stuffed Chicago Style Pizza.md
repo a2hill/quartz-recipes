@@ -1,22 +1,21 @@
-Title: Fully Stuffed
 ---
 up: "[[index]]"
 tags:
   - pizza
   - chicago
-prep time: 1 hour
+prep time: 1 Day + 1 hour
 cook time: 26 minutes
 source: https://www.amazon.com/Pizza-Camp-Recipes-Pizzeria-Quality-Home/dp/1419724096
-participants: []
+participants:
 ---
 # Description
-To me, a great stuffed pizza has a crust that stays a bit crunchy both on top and on the bottom and never gets sogsy from too much sauce or too many ingredients inside. I call this one Fully Stuffed and it is on the hearty side, but I think you'll find that the proportions of crust to fillings and sauce are just right.
+To me, a great stuffed pizza has a crust that stays a bit crunchy both on top and on the bottom and never gets soggy from too much sauce or too many ingredients inside. I call this one Fully Stuffed and it is on the hearty side, but I think you'll find that the proportions of crust to fillings and sauce are just right.
 
 ---
 
 # Ingredients
-- [ ] 1 (27-ounce/765-gram) ball Chicago Stuffed Dough (page 76)
-- [ ] 1 (14-ounce/400-gram) ball Chicago Stuffed Dough (page 76)
+- [ ] 1 (27-ounce/765-gram) ball [[Chicago Stuffed Dough]]
+- [ ] 1 (14-ounce/400-gram) ball [[Chicago Stuffed Dough]]
 - [ ] Medium-grind cornmeal, for dusting
 - [ ] 2 teaspoons (9 grams) unsalted butter, at room temperature
 - [ ] 9 ounces (255 grams) part-skim mozzarella cheese, thinly sliced (13 slices)

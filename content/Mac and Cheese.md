@@ -16,7 +16,7 @@ This recipe is a popular version of a refined mac and cheese. It uses white ched
 
 # Ingredients
 - Water or milk
-- Sodium citrate
+- [[Synthesizing Sodium Citrate|Sodium citrate]]
 - White cheddar cheese, finely grated
 - Water
 - Dry macaroni
