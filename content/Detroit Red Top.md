@@ -50,9 +50,10 @@ Detroit-style pizza is a rectangular, thick, and fluffy pizza with a crispy gold
 5. Let the dough rest for 1 to 11½ hours, until it has risen (the timing depends on the temperature of the room). It will not have doubled. If the dough shrinks away from the edges of the pan, do not press on the dough again or it may not rise properly.
 6. Meanwhile, set up the oven with two pizza stones or baking steels and preheat to 500°F for 1 hour (see Getting Started, page 29).
 7. To make the sauce, combine all of the ingredients in a saucepan and puree with an immersion blender. Set aside.
-8. Place the pizza pan on the top stone and bake for 6 minutes (the dough will set and be lightly colored). Remove from the oven, sprinkle the brick cheese evenly over the dough, covering to the edges. Stack 13/4 cups (170 grams) of the Cheddar cheese around the edges of the dough; you want it to rise slightly up the sides of the pan. Sprinkle the remaining Cheddar evenly over the top.
-9. Return the pan to the top stone to bake for about 7 minutes. The pizza will be lightly colored and the cheese will be bubbling on the sides.
-10. Rotate the pan 180 degrees and transfer it to the bottom stone. Continue to bake for another 8 to 9 minutes, until the cheese around the edges of the pan is charred.
-11. Meanwhile, heat the tomato sauce over medium-low heat until hot.
-12. Remove the pan from the oven. Use a long metal spatula to chisel and loosen the sides of the pizza, then remove the pizza from the pan and place it on a cutting board.
-13. Cut the pizza into quarters. Ladle 2 vertical racing strips of tomato sauce down the length of the pizza and spread it out slightly with the bottom of the ladle. Finish with a dusting of pecorino and oregano and a drizzle of garlic oil.
+8. Place the pizza pan on the top stone and bake for 6 minutes (the dough will set and be lightly colored). 
+9. Remove from the oven, if the crust has puffed up push it down so that the surface is somewhat even. Sprinkle the brick cheese evenly over the dough, covering to the edges. Stack Cheddar cheese around the edges of the dough; you want it to rise slightly up the sides of the pan. Sprinkle the remaining Cheddar evenly over the top.
+10. Return the pan to the top stone to bake for about 7 minutes. The pizza will be lightly colored and the cheese will be bubbling on the sides.
+11. Rotate the pan 180 degrees and transfer it to the bottom stone. Continue to bake for another 8 to 9 minutes, until the cheese around the edges of the pan is charred.
+12. Meanwhile, heat the tomato sauce over medium-low heat until hot.
+13. Remove the pan from the oven. Use a long metal spatula to chisel and loosen the sides of the pizza, then remove the pizza from the pan and place it on a cutting board.
+14. Cut the pizza into quarters. Ladle 2 vertical racing strips of tomato sauce down the length of the pizza and spread it out slightly with the bottom of the ladle. Finish with a dusting of pecorino and oregano and a drizzle of garlic oil.

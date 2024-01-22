@@ -15,7 +15,7 @@ These black velvet cheesecake cookies are the perfect treat to bake for spooky s
 ---
 # Ingredients
 - [ ] 6 oz (170 g) **cream cheese**, cold
-- [ ] 3 tbsp (38 g) **granulated white sugar**
+- [ ] 3 tbsp (32 g) **granulated white sugar**
 - [ ] 1/2 tsp **vanilla**
 - [ ] 1/4 cup (50 g) **granulated white sugar**
 - [ ] 2 tsp (3 g) **black cocoa powder**
