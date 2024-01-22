@@ -32,7 +32,7 @@ This fresh homemade pasta is SO delicious and easy to make! Serve it simply with
 
 5. Set the dough piece onto a countertop or work surface. Fold both short ends in to meet in the center, then fold the dough in half to form a rectangle (see photo above).
 
-6. Run the dough through the pasta roller three times on level 2, three times on level 3, and one time each on levels 4, 5, and 6.
+6. Run the dough through the pasta roller three times on level 2, three times on level 3, and one time each on levels 4, 5, and 6. If ravioli go to 7.
 
 7. Lay half of the pasta sheet onto the floured baking sheet and sprinkle with **flour** before folding the other half on top. Sprinkle more **flour** on top of the second half. Every side should be **floured** so that your final pasta noodles won&#x27;t stick together.
 
