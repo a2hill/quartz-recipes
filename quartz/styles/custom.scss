@@ -22,3 +22,9 @@ input[type="checkbox"] {
         }
     }
 }
+
+// Fullscreen style
+#ingredients:target li {
+    font-size: xx-large;
+    line-height: unset;
+}

@@ -55,6 +55,7 @@ const config: QuartzConfig = {
         callouts: true
       }),
       Plugin.GitHubFlavoredMarkdown(),
+      Plugin.RecipeSections(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Description(),

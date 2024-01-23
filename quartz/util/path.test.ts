@@ -1,7 +1,190 @@
-import test, { describe } from "node:test"
+import test, { beforeEach, describe } from "node:test"
 import * as path from "./path"
 import assert from "node:assert"
 import { FullSlug, TransformOptions } from "./path"
+import { unified } from "unified";
+import remarkParse from "remark-parse";
+import remarkRehype from "remark-rehype";
+import rehypeSlug from "rehype-slug";
+import rehypeStringify from "rehype-stringify";
+import remarkStringify from "remark-stringify";
+import { RecipeSections, insertSections } from "../plugins/transformers/recipe-sections";
+import { BuildCtx } from "./ctx";
+import {rehype} from 'rehype'
+// import {remark} from 'remark'
+
+describe("recipe sections", () => {
+  test("should div ingredients and method when no trailing heading", async () => {
+
+    const file = await rehype()
+      .data('settings', {fragment: true})
+      .use(RecipeSections().htmlPlugins!({} as BuildCtx))
+      .process(
+        [
+          '<article>',
+            '<h2>Ingredients</h2>',
+            '<ul>',
+              '<li>Item</li>',
+            '</ul>',
+            '<h2>Method</h2>',
+            '<ol>',
+              '<li>Add the butter</li>',
+            '</ol>',
+          '</article>'
+        ].join('')
+      )
+
+    assert.equal(
+      String(file),
+      [
+        '<article>',
+          '<h2 id="ingredients">Ingredients</h2>',
+          '<div>',
+            '<ul>',
+              '<li>Item</li>',
+            '</ul>',
+          '</div>',
+          '<h2 id="method">Method</h2>',
+          '<div>',
+            '<ol>',
+              '<li>Add the butter</li>',
+            '</ol>',
+          '</div>',
+        '</article>'
+      ].join('')
+    )
+  });
+
+  test("should div ingredients and method with trailing heading", async () => {
+    const file = await rehype()
+      .data('settings', {fragment: true})
+      .use(RecipeSections().htmlPlugins!({} as BuildCtx))
+      .process(
+        [
+          '<article>',
+          '<h2>Ingredients</h2>',
+          '<ul>',
+          '<li>Item</li>',
+          '</ul>',
+          '<h2>Method</h2>',
+          '<ol>',
+          '<li>Add the butter</li>',
+          '</ol>',
+          '<h2>Notes</h2>',
+          '</article>'
+        ].join('')
+      )
+
+    assert.equal(
+      String(file),
+      [
+        '<article>',
+        '<h2 id="ingredients">Ingredients</h2>',
+        '<div>',
+        '<ul>',
+        '<li>Item</li>',
+        '</ul>',
+        '</div>',
+        '<h2 id="method">Method</h2>',
+        '<div>',
+        '<ol>',
+        '<li>Add the butter</li>',
+        '</ol>',
+        '</div>',
+        '<h2 id="notes">Notes</h2>',
+        '</article>'
+      ].join('')
+    )
+  });
+
+  test("should div ingredients and method which contain a heading", async () => {
+    const file = await rehype()
+      .data('settings', {fragment: true})
+      .use(RecipeSections().htmlPlugins!({} as BuildCtx))
+      .process(
+        [
+          '<article>',
+            '<h2>Ingredients</h2>',
+            '<ul>',
+              '<li>Item</li>',
+            '</ul>',
+            '<h3>Sub ingredients</h3>',
+            '<ul>',
+              '<li>SubItem</li>',
+            '</ul>',
+            '<h2>Method</h2>',
+            '<ol>',
+              '<li>Add the butter</li>',
+            '</ol>',
+            '<h3>Sub Steps</h3>',
+            '<ol>',
+              '<li>Add the sub-butter</li>',
+            '</ol>',
+          '</article>'
+        ].join('')
+      )
+
+    assert.equal(
+      String(file),
+      [
+        '<article>',
+          '<h2 id="ingredients">Ingredients</h2>',
+          '<div>',
+            '<ul>',
+              '<li>Item</li>',
+            '</ul>',
+            '<h3 id="sub-ingredients">Sub ingredients</h3>',
+            '<ul>',
+              '<li>SubItem</li>',
+            '</ul>',
+          '</div>',
+          '<h2 id="method">Method</h2>',
+          '<div>',
+            '<ol>',
+              '<li>Add the butter</li>',
+            '</ol>',
+            '<h3 id="sub-steps">Sub Steps</h3>',
+            '<ol>',
+              '<li>Add the sub-butter</li>',
+            '</ol>',
+          '</div>',
+        '</article>'
+      ].join('')
+    )
+  });
+
+  test("should normalize headers", async () => {
+
+    const file = await unified()
+    .use(remarkParse)
+    .use(RecipeSections().markdownPlugins!({} as BuildCtx))
+    .use(remarkStringify)
+    .process(
+      [
+        '# Ingredients\n',
+        '\n',
+        'hello\n',
+        '\n',
+        '##### Method\n',
+        '\n',
+        'step\n'
+      ].join('')
+    )
+
+  assert.equal(
+    String(file),
+    [
+      '## Ingredients\n',
+      '\n',
+      'hello\n',
+      '\n',
+      '### Method\n',
+      '\n',
+      'step\n'
+    ].join('')
+  )
+  });
+});
 
 describe("typeguards", () => {
   test("isSimpleSlug", () => {
