@@ -1,4 +1,3 @@
-Title: Pressure Cooker Beef Stew
 ---
 up: "[[index]]"
 tags:
@@ -8,13 +7,15 @@ tags:
 prep time: 45 minutes
 cook time: 1 1/2 hours
 source: https://www.seriouseats.com/recipes/2016/10/pressure-cooker-beef-stew-recipe.html
-participants: []
+participants:
+  - J. Kenji López-Alt
 ---
 # Description
 This hearty beef stew is made in a pressure cooker for a quick and easy meal.
 
 ---
-
+> [!summary]- Alternative Cooking Methods
+> If you want to cook this on the stove top do everything in a dutch oven. For cooking times simmer it for 30 minutes lid on, 15 minutes lid cracked, then add your potatoes and veggies and do another 20-30 minutes lid on
 # Ingredients
 - [ ] 3 cups (720ml) homemade or store-bought low-sodium chicken stock
 - [ ] 4 packets powdered unflavored gelatin (1 ounce; 30g)

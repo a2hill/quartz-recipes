@@ -1,0 +1,45 @@
+Title: Red Beans and Rice
+---
+up: "[[index]]"
+tags:
+  - cajun
+  - creole
+  - beans
+  - rice
+prep time: 8 hours
+cook time: 2 hours
+source: https://www.cookscountry.com/recipes/10086-red-beans-and-rice
+participants: []
+---
+# Description
+This classic Cajun and Creole dish is a hearty and flavorful combination of red beans, andouille sausage, and rice. Perfect for a comforting meal on a cold day.
+
+---
+
+# Ingredients
+- [ ] 1 small green bell pepper, stemmed, seeded, and chopped fine
+- [ ] 1 celery rib, minced
+- [ ] 3 garlic cloves, minced
+- [ ] 1 teaspoon fresh thyme
+- [ ] 1 teaspoon sweet paprika
+- [ ] 2 bay leaves
+- [ ] ¼ teaspoon cayenne pepper
+- [ ] 6 cups water
+- [ ] 3 cups low-sodium chicken broth
+- [ ] 8 ounces andouille sausage, halved lengthwise and sliced ¼ inch thick
+- [ ] 1 teaspoon red wine vinegar, plus extra for seasoning
+- [ ] Recipe for Simple White Rice (page 222)
+- [ ] 3 scallions, sliced thin
+- [ ] Hot sauce (optional)
+
+---
+
+# Method
+1. In a large bowl or container, dissolve 3 tablespoons of salt in 4 quarts of cold water. Add beans and soak at room temperature for at least 8 hours or up to 24 hours. Drain and rinse well.
+2. In a Dutch oven, heat bacon over medium heat, stirring occasionally, until browned and fat is almost fully rendered, 5 to 8 minutes.
+3. Add onion, green pepper, and celery and cook, stirring frequently, until vegetables are softened, 6 to 7 minutes.
+4. Stir in garlic, thyme, paprika, bay leaves, cayenne, and ¼ teaspoon black pepper and cook until fragrant, about 30 seconds.
+5. Stir in beans, water, and broth and bring to a boil over high heat. Reduce heat and vigorously simmer, stirring occasionally, until beans are just soft and liquid begins to thicken, 45 to 60 minutes.
+6. Stir in sausage and 1 teaspoon vinegar and cook until liquid is thick and beans are fully tender and creamy, about 30 minutes.
+7. Season with salt, pepper, and additional vinegar to taste.
+8. Serve over rice, sprinkling with scallions and passing hot sauce separately, if desired.

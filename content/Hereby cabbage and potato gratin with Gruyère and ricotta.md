@@ -17,9 +17,13 @@ participants:
 Multiple layers of flavor make this gratin subtly special, the first being two types of garlic: sweet, sticky, and roasted, and then raw and pungent. The second being a multitude of herbs and cheeses in between lavers of potato, shallots, and cabbage. It is as lovely to look at as it is to eat, and can be served as is, or alongside your protein of choice.
 ___
 # Notes
-
+> [!summary]+ Thanksgiving
+> Less liquid, definitely need to use the right cheese, also could mess around with thinner potatoes so that we can cook for less time. Also less liquid 
 ___
 # Ingredients
+
+^d2dfa0
+
 * [ ] 2 heads of garlic, skin on and top fifth cut off to expose the cloves, plus 3 extra peeled cloves
 * [ ] 4 tbsp plus 1 tsp/65ml olive oil
 * [ ] 1 lb/450g red potatoes (about 4), skin on and sliced ⅛ inch/3mm thick

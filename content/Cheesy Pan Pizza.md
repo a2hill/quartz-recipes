@@ -28,6 +28,29 @@ A take on a Pizza Hut personal pan pizza from the 80's
 	* With this amount of cheese you are going to get slippage if it goes on top of the sauce 
 ### Next Time
 * Do it Detroit style, sauce on top
+## 2023-11-03
+* Layered as follows
+	* sliced low moisture moz
+	* Sauce
+	* Oregano and flakes
+	* cubed high moisture moz 
+	* grated moz
+	* grated hard
+	* onion
+	* Pep
+	* More grated moz and hard
+	* Sauce racing stripes
+
+### Liked
+* no cheese slippage with this sauce technique
+* Good sauce flavor
+* Better browning this time, could have just been the oven though
+### Disliked
+* the cheese flavor was not as intense, could be because I didn’t use part skim and full fat like he calls for. Could have also been because of the extra sauce and pep
+* had liquid pooling in the middle, could have been because of:
+	* Low moisture moz (although this is unchanged from last time)
+	* tomatoes weren’t drained before making sauce
+	* Lots of bubbles in the pizza dough causing it to all drain to one place 
 ---
 # Ingredients
 * [ ] 650g [[Butter Crust Pan Pizza Dough]], par-baked and ready to top
