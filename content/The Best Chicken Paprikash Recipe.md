@@ -17,11 +17,13 @@ This version of chicken paprikash takes a few extra steps to ensure the best pos
 - [ ] 1 cup homemade or store-bought low-sodium chicken stock
 - [ ] 1 (.25 ounce) packet powdered gelatin (about 2 1/2 teaspoons)
 - [ ] 4 whole chicken legs, split into thighs and drumsticks (about 2 pounds)
+- [ ] 12g Garlic, smashed
 - [ ] Kosher salt and freshly ground black pepper
 - [ ] 1 tablespoon vegetable oil
 - [ ] 1 large yellow onion, thinly sliced (about 1 1/2 cups)
 - [ ] 1 red bell pepper, thinly sliced (optional, see note)
 - [ ] 1/4 cup (1 ounce) high quality Hungarian sweet paprika (see note)
+	- [ ] If using paste, 36g
 - [ ] 1 bay leaf
 - [ ] 1/2 cup sour cream, plus more for garnish
 - [ ] 1/2 teaspoon Asian fish sauce
