@@ -128,6 +128,7 @@ export function renderPage(
             return
           }
 
+          const attributionText = page.frontmatter?.title ? `Source: ${page.frontmatter?.title}` : 'Source'
           node.children = [
             ...(page.htmlAst.children.slice(startIdx, endIdx) as ElementContent[]).map((child) =>
               normalizeHastElement(child as Element, slug, transcludeTarget),
@@ -136,7 +137,7 @@ export function renderPage(
               type: "element",
               tagName: "a",
               properties: { href: inner.properties?.href, class: ["internal"] },
-              children: [{ type: "text", value: `Link to original` }],
+              children: [{ type: "text", value: attributionText }],
             },
           ]
         } else if (page.htmlAst) {

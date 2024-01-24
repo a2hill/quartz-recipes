@@ -28,3 +28,12 @@ input[type="checkbox"] {
     font-size: xx-large;
     line-height: unset;
 }
+
+/*
+ Hides the included header when transcluding a specific section of a note (by referencing its header).
+ All transcludes go inside blockquote elements with the 'transclude' class. Only header transcludes start
+ with '#'
+ */
+blockquote.transclude[data-block^="#"] > :is(h1, h2, h3, h4, h5, h6) {
+    display: none;
+}
