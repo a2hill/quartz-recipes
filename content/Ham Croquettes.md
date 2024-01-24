@@ -21,11 +21,7 @@ Croquetas, a common dish all over Spain, are served hot or room temperature for 
 
 # Ingredients
 ## Béchamel
-- [ ] 4 tablespoons unsalted butter
-- [ ] 1½ cups whole milk
-- [ ] ¼ cup heavy cream
-- [ ] ½ cup very finely chopped onion
-- [ ] ⅓ cup all-purpose flour
+![[Béchamel#Ingredients]]
 ## Fry Coating
 - [ ] 1 cup panko (Japanese bread crumbs)
 - [ ] ⅓ cup all-purpose flour (batter)
@@ -44,8 +40,7 @@ Croquetas, a common dish all over Spain, are served hot or room temperature for 
 
 # Method
 ## Béchamel
-1. Melt the butter in a large saucepan over low heat. Add the onion and cook, stirring occasionally, until translucent and soft but not at all browned, about 15 minutes.
-2. Add the flour and cook, whisking continuously, just until the raw flour smell dissipates, about 1 minute. Continue whisking while adding the milk a little at a time to prevent the mixture from clumping. Whisk in the cream. Bring to a boil over medium heat, then boil for 2 to 3 minutes, whisking the whole time.
+![[Béchamel#Method]]
 3. Add the ham and stir for 2 minutes to draw out some of the moisture. Spread the mixture on a half-sheet pan and refrigerate, uncovered, until cold.
 ## Shape and Fry
 1. Roll 1 heaping tablespoon of the croqueta mixture into a football shape. It should be about 2 inches long and 1 inch in diameter at its thickest point. Repeat with the remaining mixture. If the mixture has softened in the process, refrigerate until firm.
