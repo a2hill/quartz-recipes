@@ -5,7 +5,8 @@ function Content({ fileData, tree }: QuartzComponentProps) {
   const content = htmlToJsx(fileData.filePath!, tree)
   return (
     <>
-      <a href="#ingredients">Start Cooking</a>
+      {/* TODO: Work on cooking mode button */}
+      {/* <a href="#ingredients">Start Cooking</a> */}
       <article class="popover-hint">{content}</article>
     </>
   )

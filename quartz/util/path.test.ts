@@ -266,7 +266,7 @@ describe("transforms", () => {
   test("simplifySlug", () => {
     asserts(
       [
-        ["index", ""],
+        ["index", "/"],
         ["abc", "abc"],
         ["abc/index", "abc/"],
         ["abc/def", "abc/def"],
@@ -288,6 +288,9 @@ describe("transforms", () => {
         ["index.md", "index"],
         ["test.mp4", "test.mp4"],
         ["note with spaces.md", "note-with-spaces"],
+        ["notes.with.dots.md", "notes.with.dots"],
+        ["test/special chars?.md", "test/special-chars-q"],
+        ["test/special chars #3.md", "test/special-chars-3"],
       ],
       path.slugifyFilePath,
       path.isFilePath,
