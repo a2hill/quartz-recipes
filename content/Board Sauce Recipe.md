@@ -8,7 +8,7 @@ source: https://amazingribs.com/tested-recipes/other-fun-sauce-recipes/board-sau
 participants:
   - Amazing Ribs
 related:
-  - "[[Board Sauce (Concept)]]"
+  - "[[Board Sauce Concept]]"
 rating: 3
 ---
 # Description

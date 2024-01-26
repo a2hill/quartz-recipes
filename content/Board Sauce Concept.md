@@ -4,9 +4,9 @@ tags:
   - meat/sauce
 source: https://amazingribs.com/tested-recipes/other-fun-sauce-recipes/board-sauce-recipe-adam-perry-lang/
 related:
-  - "[[Board Sauce (Recipe)]]"
+  - "[[Board Sauce Recipe]]"
 ---
-See the recipe: [[Board Sauce (Recipe)]]
+See the recipe: [[Board Sauce Recipe]]
 
 Here’s how the concept works. He takes a handful of fresh herbs and chops them on a cutting board. Then he pours some olive oil on the herbs, minces them together, lays hot grilled meat on the mixture, carves the meat, and tosses the cut meat in with the board sauce, which is enriched by the meat juices. The board sauce keeps the meat moist, and brings interesting flavors to the insides of the meat. Surprisingly, shockingly, the herbs do not overpower the meat. I’m one of those guys who uses only salt and pepper on my steaks because they are so wonderful when cooked properly and I don’t want to mask them. But board sauces do not mask the meat.
 
