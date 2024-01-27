@@ -8,6 +8,9 @@ prep time: 1 hour 30 minutes
 cook time: 30 minutes
 source: https://www.scribd.com/document/375961616/Detroit-Red-Top
 participants:
+  - Tony Gemignani
+related:
+  - "[[Master Dough Without Starter]]"
 ---
 # Description
 Detroit-style pizza is a rectangular, thick, and fluffy pizza with a crispy golden brown cheese border. It's unique because of the two cheeses, white Cheddar and brick, and the blue-steel pans used to bake it. This recipe was created by Shawn Randazzo, who won the International Pizza Challenge with his Detroit-style pizza in 2012.

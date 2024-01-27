@@ -26,7 +26,7 @@ draft: true
 * [ ] ~6 lb boneless lamb leg (usually from costco)
 * [ ] 1 batch [[Board Sauce Recipe]]
 # Method
-1. **Prep**. Start the day before if you can by removing as much of the thick fat cap on the surface as possible and all the silverskin underneath. Remove the bones, or not. Your choice.
+1. **Prep**. Start the day before if you can by removing as much of the thick fat cap on the surface as possible and all the silverskin underneath. Fat is what gives lamb it's gamey flavor. Remove the bones, or not. Your choice.
 2. Now gash the surface by stabbing it repeatedly about 1/2" (13mm) deep and 1" (2.5cm) apart or run a sharp blade across the surface in a checkerboard pattern making squares 1 to 2" wide and about 1/2" (13mm) deep  [Click here to read more about the technique of gashing](https://amazingribs.com/tested-recipes/marinades-and-brinerades/science-of-marinades-and-brinerades/). 
 3. Sprinkle the salt all over the meat going lighter in the thinner areas.
 4. Truss the roast

@@ -7,6 +7,8 @@ cook time: 18 hours
 source: The Pizza Bible
 participants:
   - Tony Gemignani
+related:
+  - "[[Master Dough with Starter]]"
 ---
 ## Description
 Starter for [[Master Dough with Starter]]

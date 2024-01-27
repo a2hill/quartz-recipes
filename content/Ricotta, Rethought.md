@@ -1,4 +1,3 @@
-Title: Ricotta, Rethought
 ---
 up: "[[index]]"
 tags:
@@ -7,8 +6,9 @@ tags:
   - mascarpone
 prep time: 1 hour
 cook time: 30 minutes
-source: https://www.seriouseats.com/recipes/2013/01/ricotta-rethought-deep-dish-pizza-recipe.html
-participants: []
+source: The Pizza Bible
+participants:
+  - Tony Gemignani
 ---
 # Description
 In most deep-dish pizzas, ricotta is added along with the other filling ingredients and baked. But while / was experimenting with cannoli, I got thinking about how nice that smooth, silky flavor of fresh ricotta lightened with a little mascarpone is-and how good it would be on a pizza. And after all, ricotta is already "recooked." figured, why cook it a third time if you don't have to? So I tried piping that ricotta-mascarpone mixture onto my pizzas with a pastry bag after baking, and I'll never go back. No, it's "not really Chicago," as people seem to love pointing out to me on an almost daily basis. But baked ricotta has a heavier, less delicate taste and texture, and cooking it also makes it weep-which makes me weep in terms of "sog factor." My method lets you taste the ricotta at its creamiest and best, and I think it looks pretty cool, too. Just be sure it's at room temperature when you pipe (or, if you prefer, spoon) it on, so the hot pizza warms it just right. If you have access to a really good brand of ricotta, like dense, slightly sweet New York-style Polly-O or Grande, you can use it straight. If you can't find those, make this creamy, rich Ricotta Cream using an artisanal ricotta rather than a typical supermarket brand.

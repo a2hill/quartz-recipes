@@ -1,13 +1,15 @@
-Title: Chicago Deep-Dish Dough
 ---
 up: "[[index]]"
 tags:
   - pizza
   - dough
 prep time: 24 hours
-cook time: 0 minutes
-source: https://www.seriouseats.com/recipes/2013/01/chicago-style-deep-dish-pizza-recipe.html
-participants: []
+cook time: 
+source: The Pizza Bible
+participants:
+  - Tony Gemignani
+related:
+  - "[[Chicago Stuffed Dough]]"
 ---
 # Description
 This Chicago Deep-Dish Dough recipe is made with Ceresota flour, an unbleached, unbromated all-purpose flour made from hard red winter wheat. It is a relatively low-gluten flour that is the traditional choice of Chicago pizzerias. The dough is made with equal parts butter and lard, giving it a unique flavor and texture. It needs to proof for at least 24 hours, but can be left for up to 48 hours for even better results.

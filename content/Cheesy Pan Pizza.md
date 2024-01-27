@@ -8,6 +8,9 @@ cook time: 15 minutes
 source: Pizza Czar
 participants:
   - Anthony Falco
+related:
+  - "[[Butter Crust Pan Pizza Dough]]"
+  - "[[Flavor Bomb Sauce]]"
 ---
 # Description
 A take on a Pizza Hut personal pan pizza from the 80's  

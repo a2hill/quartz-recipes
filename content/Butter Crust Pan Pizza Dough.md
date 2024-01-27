@@ -9,6 +9,8 @@ cook time: 10 minutes
 source: Pizza Czar
 participants:
   - Anthony Falco
+related:
+  - "[[Cheesy Pan Pizza]]"
 ---
 # Description
 Butter Crust Pan Dough Recipe adapted for a single 650g pizza suitable for a 12" round pan or a 13.5"x10" Lloyd rectangle pan. The original recipe makes three 12-inch round pizzas or five 9-inch round personal pizzas.

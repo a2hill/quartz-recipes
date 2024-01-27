@@ -8,6 +8,8 @@ cook time: 24-48 hours
 source: The Pizza Bible
 participants:
   - Tony Gemignani
+related:
+  - "[[Master Dough Without Starter]]"
 ---
 # Description
 This is what l'd call the quintessential American pizza dough, inspired by New York-style pizza: medium thin, satisfyingly chewy, and the ideal companion to mozzarella, tomato sauce, and the pizza toppings Americans love best, from pepperoni and sausage to olives, mushrooms, and other vegetables. It's the dough I teach first to new students, and the one I recommend experimenting with because it's so versatile and user-friendly.

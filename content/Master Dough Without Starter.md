@@ -8,6 +8,9 @@ cook time: 24-48 hours
 source: The Pizza Bible
 participants:
   - Tony Gemignani
+related:
+  - "[[Detroit Red Top]]"
+  - "[[Master Dough with Starter]]"
 ---
 # Description
 This recipe is for a master dough without a starter. It makes about 27 ounces of dough, enough for 1 pizza.

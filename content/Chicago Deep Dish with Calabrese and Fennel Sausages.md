@@ -6,8 +6,13 @@ tags:
   - sausage
 prep time: 
 cook time: 
-source: 
-participants: [] 
+source: The Pizza Bible
+participants:
+  - Tony Gemignani
+related:
+  - "[[Chicago Deep-Dish Dough]]"
+  - "[[Deep-Dish Tomato Sauce]]"
+  - "[[Deep-Dish Tips]]"
 ---
 # Description
 This pie, filled with sausage and cheese, is the quintessential Chicago deep-dish pizza and a great choice for your first foray. I like a combo of spicy Calabrese and sweet fennel sausages and both mozzarella and provolone for the cheese. Some pizzerias press out a sheet of sausage that forms a solid layer over the cheese. I prefer to pinch quarter-size pieces of sausage and distribute them evenly, which makes for a less heavy pizza.
