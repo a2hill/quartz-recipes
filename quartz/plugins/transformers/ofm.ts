@@ -370,22 +370,25 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
       // TODO: Consider using an existing plugin for this: https://github.com/landakram/remark-wiki-link
       plugins.push(() => {
         return (_, file) => {
-          const getUrl = (linkName: string) => {
-            // Note: this won't parse links with '()' in them despite those being valid Obsidian titles
-            let [_, rawFp, rawHeader] = wikilinkRegex.exec(linkName) ?? [];
-            const fp = rawFp?.trim() ?? ""
+          const getFileName = (wikiLinkString: string) => {
+            /* 
+             Can't re-use regex because it uses the global flag and will fail to match two executions in a row
+             https://stackoverflow.com/a/2142007
+             */
+            let [_, rawFileName, rawHeader] = new RegExp(wikilinkRegex).exec(wikiLinkString) ?? [];;
+            const fileName = rawFileName?.trim() ?? ""
             const anchor = rawHeader?.trim() ?? ""
-            const url = fp + anchor
+            const url = fileName + anchor
             return url;
           }
           if (file.data.frontmatter?.up) {
-            file.data.frontmatter.up = getUrl(file.data.frontmatter.up);
+            file.data.frontmatter.up = getFileName(file.data.frontmatter.up);
           }
           if (file.data.frontmatter?.related && Array.isArray(file.data.frontmatter?.related)) {
             const links: Set<string> = new Set();
             for (const link of file.data.frontmatter?.related) {
-              const url = getUrl(link);
-              links.add(url);
+              const fileName = getFileName(link);
+              links.add(fileName);
             }
             file.data.frontmatter.related = [...links];
           }
