@@ -1,12 +1,15 @@
 ---
 up: "[[index]]"
 tags:
-- pizza
-- tomato-sauce
+  - pizza
+  - tomato-sauce
 prep time: 
 cook time: 
-source:
-participants: []
+source: Pizza Czar
+participants:
+  - Anthony Falco
+related:
+  - "[[Cheesy Pan Pizza]]"
 ---
 # Description
 
