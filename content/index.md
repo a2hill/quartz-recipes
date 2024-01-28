@@ -15,7 +15,7 @@ This is a personal collection of recipes, notes, and ideas about cooking.
 ---
 ## Ingredients
 * [ ] [Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios)
-* [ ] ChatGPT
+* [ ] [OpenAI API](https://platform.openai.com/docs/api-reference)
 * [ ] [Obsidian.md](https://obsidian.md/)
 * [ ] [Quartz](https://github.com/jackyzha0/quartz) 
 ---
