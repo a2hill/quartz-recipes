@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "The<br>Recipe<br>Catalog",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "extras"],
+    baseUrl: "a2hill.github.io/quartz-recipes",
+    ignorePatterns: ["private", "templates", ".obsidian", "Extras"],
     defaultDateType: "created",
     theme: {
       typography: {
