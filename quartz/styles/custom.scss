@@ -56,11 +56,11 @@ blockquote.transclude[data-block^="#"] > :is(h1, h2, h3, h4, h5, h6) {
 
     // Elipsis long value columns like links (this isn't working)
     // https://stackoverflow.com/questions/17345158/variable-sized-column-with-ellipsis-in-a-table
-    // table tr > td {
-    //     overflow: hidden;
-    //     text-overflow: ellipsis;
-    //     white-space: nowrap;    
-    // }
+    table tr > td {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;    
+    }
 
     // Add different border styling for table with column header (as opposed to row headers like the rest of quartz
     tr {
