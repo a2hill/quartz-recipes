@@ -5,7 +5,7 @@ tags:
   - cheese
 prep time: 
 cook time: 30 minutes
-source: 
+source: https://modernistcuisine.com/recipes/silky-smooth-macaroni-and-cheese/
 participants: 
 related:
   - "[[Synthesizing Sodium Citrate]]"
@@ -15,17 +15,14 @@ related:
 This recipe is a popular version of a refined mac and cheese. It uses white cheddar cheese and can be customized with various accompaniments.
 
 ---
-
 # Ingredients
-- Water or milk
-- [[Synthesizing Sodium Citrate|Sodium citrate]]
-- White cheddar cheese, finely grated
-- Water
-- Dry macaroni
-- Salt
-
+- [ ] 265g Water or milk
+- [ ] 11g [[Synthesizing Sodium Citrate|Sodium citrate]]
+- [ ] 285g cheese of your choice, finely grated
+- [ ] 240g Dry macaroni
+- [ ] Water as needed for pasta cooking
+- [ ] Salt to taste (and for your pasta water)
 ---
-
 # Method
 1. Combine water or milk, sodium citrate, and white cheddar cheese in a pot. Whisk to dissolve and bring to a simmer over medium heat.
 2. Bring a large pot of water to a boil.
