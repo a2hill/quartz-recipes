@@ -1,11 +1,17 @@
+import { JSXElement } from "estree-jsx";
 import { transformInternalLink, transformLink } from "../util/path";
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 
 const hiddenProperties = ['title', 'alias', 'draft', 'date', 'up', 'tags'];
 
+function getAnchorTags(fileNames: string[]) {
+    return fileNames.map(it => {
+        return (<a href={transformInternalLink(it)} class="internal">{it}</a>)
+    })
+}
+
 function FrontMatter({ fileData, displayClass }: QuartzComponentProps) {
-//   throw new Error('hi')
   if (fileData.frontmatter) {
     const properties = Object.keys(fileData.frontmatter)
         .filter((prop) => {
@@ -31,15 +37,16 @@ function FrontMatter({ fileData, displayClass }: QuartzComponentProps) {
                     const header = prop.replace(/\b\w/g, match => match.toUpperCase());
                     const value = fileData.frontmatter![prop];
                     let formattedValue = Array.isArray(value) ? value.join(', ') : value;
+
+                    // The related property contains links to other files
                     if (prop === 'related' && Array.isArray(value)) {
                         // The tags class provides nice formatting for groups of links
-                        formattedValue = (<div class='tags'>
-                            {value.map(it => {
-                                return <a href={transformInternalLink(it)} class="internal">
-                                    {it}
-                                </a>
-                            })}
-                        </div>)
+                        formattedValue = (<div class='tags'> {getAnchorTags(value)} </div>)
+                    } else if (prop === 'source') {
+                        try {
+                            const link = new URL(value);
+                            formattedValue = (<a href={link.toString()}>{value}</a>)
+                        } catch {}
                     }
                     return (<tr>
                         <th>{header}</th>
