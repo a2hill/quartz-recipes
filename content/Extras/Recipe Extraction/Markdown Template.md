@@ -14,7 +14,7 @@ If this were an asian noodle dish some options would be:
 prep time: 
 cook time: 
 source: <!-- url of recipe of available -->
-related: [] <!-- reserved for future use -->
+related: []
 participants: [] <!-- leave blank -->
 
 ---

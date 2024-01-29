@@ -5,10 +5,9 @@ tags:
   - banana
 prep time: 15 minutes
 cook time: 1 hour, 15 minutes
-source: <!-- url of recipe of available -->
-related: [] <!-- reserved for future use -->
-participants: [] <!-- leave blank -->
-
+source: 
+related: []
+participants: []
 ---
 # Description
 This recipe for Browned Butter Banana Bread is a delicious twist on the classic banana bread recipe. The browned butter adds a rich, nutty flavor that pairs perfectly with the sweetness of the bananas. Serve it warm with a swipe of butter and a sprinkle of flaky Maldon salt for a truly indulgent treat.
