@@ -7,9 +7,9 @@ tags:
   - cilantro
 prep time: 
 cook time: 
-source: <!-- url of recipe of available -->
+source:
 related: []
-participants: [] <!-- leave blank -->
+participants: []
 
 ---
 # Description
