@@ -8,7 +8,7 @@ tags:
 prep time: 
 cook time: 
 source: 
-related: // leave this blank
+related: []
 participants:
   - Anjali Hill
 ---
