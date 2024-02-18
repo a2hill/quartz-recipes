@@ -6,9 +6,9 @@ tags:
 prep time: 2 hours
 cook time: 30 minutes
 source: https://www.food.com/recipe/homemade-pita-bread-29166
-related: []
-participants: [] <!-- leave blank -->
-
+related: 
+participants:
+  - Isaac Fischer
 ---
 # Description
 This recipe for homemade pita bread is easy to follow and produces delicious, fluffy pitas that are perfect for dipping, stuffing, or eating on their own.
