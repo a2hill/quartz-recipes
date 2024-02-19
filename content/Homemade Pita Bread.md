@@ -5,7 +5,7 @@ tags:
   - pita
 prep time: 2 hours
 cook time: 30 minutes
-source: Cook’s Illustrated Cookbook
+source: 
 related: 
 participants:
   - Isaac Fischer
