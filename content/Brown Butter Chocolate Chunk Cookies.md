@@ -3,12 +3,12 @@ up: "[[index]]"
 tags:
   - dessert
   - cookies
+  - chocolate
 prep time: 
 cook time: 
 source: 
-related: []
-participants: [] 
-
+related: 
+participants:
 ---
 # Description
 These Brown Butter Chocolate Chunk Cookies are the perfect combination of nutty, buttery, and chocolatey flavors. They are soft, chewy, and have a hint of sea salt on top for the perfect balance of sweet and salty.
