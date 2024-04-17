@@ -27,7 +27,7 @@ This is a recipe for the perfect pastry crust for savory preparations. It is mad
 
 # Method
 1. In a large bowl, combine the **flour** and **salt**.
-2. Add the diced **butter** and **lard**. Using both hands, pinch the fat into the flour and continue working it until the mixture resembles coarse meal.
+2. Add the diced **butter** and **lard**. Using both hands, pinch the fat into the flour and continue working it until the mixture resembles coarse meal; it should not become too warm or pasty.
 3. Add the **water** and **vinegar** and mix until a dough forms.
 4. Shape the dough into a log about 10 by 4 inches/25 by 10 centimeters. Wrap it in plastic wrap and refrigerate for at least 1 hour and up to 24 hours.
 5. When ready to use, slice the dough into 1 inch/2.5 centimeter thick disks and let them sit at room temperature for 30 minutes before rolling.
