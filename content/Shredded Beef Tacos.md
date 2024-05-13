@@ -38,6 +38,7 @@ Delicious, tender, fall-apart meat stuffed in corn tortillas and topped with avo
 1. Preheat oven to 325°F.
 2. Combine **oregano**, **chili powder**, **cumin**, **paprika**, **salt** and **pepper** in a small bowl. Sprinkle seasoning over **meat** and use your hand to rub it onto the **meat**.
 3. Heat the **oil** in a heavy bottom pot or Dutch oven over high heat. Sear the **meat** on both sides. Once the **meat** is seared, add **garlic**, **onion**, and **jalapeno** and cook for 1-2 minutes.
-4. Add **orange juice**, **lime juice**, and **stock** (or **water**), scraping the bottom of the pot to deglaze it. Cover and place in oven for 2 1/2-3 hours or until the **beef** is tender enough to shred. Alternatively, you can place the **meat** in a slow cooker after searing it. Add the rest of the ingredients, cover and cook on low for 6 hours or on high for 4 hours.
-5. Remove **beef** from pot and shred using 2 forks. Once shredded, place **meat** back in juices to keep it from drying out.
-6. To assemble tacos, spread shredded **beef** in the middle of a warm tortilla. Top with sliced **avocado**, **cilantro**, chopped **onion**, **lime**, and **hot sauce**.
+4. Add **orange juice**, **lime juice**, and **stock** (or **water**), scraping the bottom of the pot to deglaze it. Cover and place in oven for 2 1/2-3 hours or until the **beef** is tender enough to shred. Check after an hour or so to ensure that there is still enough braising liquid 
+5. Alternatively, you can place the **meat** in a slow cooker after searing it. Add the rest of the ingredients, cover and cook on low for 6 hours or on high for 4 hours.
+6. Remove **beef** from pot and shred using 2 forks. Once shredded, place **meat** back in juices to keep it from drying out.
+7. To assemble tacos, spread shredded **beef** in the middle of a warm tortilla. Top with sliced **avocado**, **cilantro**, chopped **onion**, **lime**, and **hot sauce**.
