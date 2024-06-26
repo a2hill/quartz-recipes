@@ -13,17 +13,12 @@ participants:
 # Description
 This recipe for homemade pita bread is easy to follow and produces delicious, fluffy pitas that are perfect for dipping, stuffing, or eating on their own.
 
- > [!note]+ 2024-02-18
- > Tried cooking these at different temperatures in the pizza oven, and also in the cast iron
- > For the pizza oven:
- > * Low heat gave a nice texture, however it didn't brown like we would have liked
- > * At a higher temp they brown nicely, however a hot stone tends to create a thin bottom with a thick top (ideally we'd want the top and bottom to be the same thickness)
- > For the cast iron:
- > * The heat is too uneven to get uniform browning, and so you end up with hot spots
- > ## Next Time
- > * Cook in the pizza oven at a low stone temperature and increase the fire when you launch them (so that they brown)
+ > [!note]+ 2024-06-25
+ > After re-reading the directions and proofing the pita on a towel (with another towel over it), I had the opposite problem from last time: the bottoms were underdone and I didn't get the poof I wanted. 
+ > 
+ > I think the right move is to cook them like a pizza, get the stone hot (the bottoms which are moist from the towel will need the heat), and then moderate the top heat to get the right doneness
+ 
 ---
-
 # Ingredients
 - [ ] 3 cups of flour
 - [ ] 1 tablespoon of yeast
