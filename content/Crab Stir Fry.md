@@ -6,10 +6,10 @@ tags:
   - stir-fry
 prep time: 
 cook time: 
-source: <!-- url of recipe of available -->
-related: []
-participants: [] <!-- leave blank -->
-
+source: 
+related: 
+participants:
+  - Brian Tran
 ---
 # Description
 This recipe for Crab Stir Fry is a delicious and flavorful way to enjoy fresh crab. The crab is first prepped and then fried before being stir-fried with garlic, green chili, and seasonings. Serve with rice for a complete meal.
