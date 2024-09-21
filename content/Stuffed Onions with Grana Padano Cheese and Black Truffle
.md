@@ -8,7 +8,7 @@ prep time: 50 minutes
 cook time: 1 hour
 source: https://www.samsung.com/uk/lifestyle/food/recipes/stuffed-onions-with-grana-padano-cheese-and-black-truffle/
 related: []
-participants: [] <!-- leave blank -->
+participants: [] 
 
 ---
 # Description
