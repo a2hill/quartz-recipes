@@ -1,4 +1,3 @@
-Title: Chicken Stew
 ---
 up: "[[index]]"
 tags:
