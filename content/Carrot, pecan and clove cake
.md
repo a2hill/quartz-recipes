@@ -10,7 +10,7 @@ prep time: 25 minutes, plus cooling
 cook time: 30 minutes
 source: https://www.waitrose.com/content/waitrose/en/home/recipes/recipe_directory/c/carrot-pecan-clove-cake.html
 related: []
-participants: [] <!-- leave blank -->
+participants: [] 
 
 ---
 # Description
