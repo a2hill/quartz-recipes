@@ -8,10 +8,17 @@ tags:
 prep time: 15 minutes
 cook time: 10 minutes
 source: https://www.pressurecookrecipes.com/instant-pot-kheema-nariyal-saag/
-related: []
-participants: []
-
+related: 
+participants:
 ---
+# Notes
+* If cooking without a pressure cooker cooker, follow step 3 and then sauté onions. 
+* After onions add the pepper and continue to sauté. 
+* Follow step 4
+* Remove and an contents and then follow step 5
+* Then add seasonings and stir to combine
+* Add half can coconut milk
+* Then simmer on medium low for 30 minutes
 # Description
 If you grew up eating Indian food-either at home or in a restaurant-you're likely to have seen the word saag before. Any dish you add greens to is a saag, and typically it's spinach, as used here. This curry takes on an extra-rich flavor and thickness with the addition of coconut milk. Coconut milk tends to get a little thin when pressure cooked, so you add half at the beginning and save the other half to add after the dish is cooked. SERVES 4
 
