@@ -8,10 +8,9 @@ tags:
   - cheesecake
 prep time: 
 cook time: 
-source: 
-related: []
-participants: []
-
+source: https://inbloombakery.com/gingerbread-cheesecake-cookies/
+related: 
+participants:
 ---
 # Description
 These Gingerbread Cheesecake Cookies are the perfect holiday treat! A creamy cheesecake filling is wrapped in a spiced gingerbread cookie dough and rolled in a spiced sugar coating. These cookies are sure to be a hit at any Christmas gathering.
