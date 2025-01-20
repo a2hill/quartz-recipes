@@ -18,18 +18,8 @@ This 30-minute curry is intense with **garam masala** and **ginger** cooled by *
 
 ---
 # Ingredients
-- [ ] For The Spice Mix (see note):
-- [ ] 1 1/2 teaspoons whole cumin seeds, toasted
-- [ ] 1 1/2 teaspoons coriander seeds, toasted
-- [ ] 1 whole star anise, toasted
-- [ ] 2 cloves
-- [ ] 1/2 teaspoon black peppercorns, toasted
-- [ ] 1/2 teaspoon ground cinnamon
-- [ ] 1/4 teaspoon grated nutmeg
-- [ ] 1 blade mace
-- [ ] 1/2 teaspoon ground turmeric
-- [ ] 1 black or green cardamom pod
-- [ ] For the Curry:
+- [ ] 1 tablespoon Garam Masala (divided in half)
+- [ ] 1/4 teaspoon Turmeric
 - [ ] 3 tablespoons vegetable oil, butter, or ghee
 - [ ] 1 small onion, finely minced (about 1 cup)
 - [ ] 4 cloves garlic, grated on the medium holes of a box grater
@@ -47,5 +37,5 @@ This 30-minute curry is intense with **garam masala** and **ginger** cooled by *
 ---
 # Method
 1. Combine **cumin**, **coriander**, **star anise**, **cloves**, **peppercorns**, **cinnamon**, **nutmeg**, **mace**, **turmeric**, and **cardamom** in a spice grinder and grind to a fine powder. Set aside.
-2. Heat **oil**, **butter**, or **ghee** in a large saucepan over medium-high heat until melted (or until oil is shimmering). Add **onion**, **garlic**, **ginger**, and **chile**. Cook, stirring frequently, and scraping bottom of pan until golden brown and starting to burn in spots, about 10 minutes. Add **cayenne**, **cashews**, and half of **spice mixture**. Cook, stirring constantly until fragrant, about 30 seconds. Add **coconut milk** and remove from heat. Scrape up any browned bits from bottom of pan.
-3. Transfer mixture to blender and starting a low speed, slowly increase speed to maximum. Blend until smooth, about 30 seconds. Return mixture to pot. Add **chickpeas**, **spinach**, and remaining **spice mix** and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes. Add **salt** and **lime juice** to taste. Stir in half of **cilantro**. Transfer to serving bowl, sprinkle with extra **cilantro**, and serve with **lime wedges**, **basmati rice pilaf**, **grilled naan**, and **cilantro chutney**, as desired.
+2. Heat **oil**, **butter**, or **ghee** in a large saucepan over medium-high heat until melted (or until oil is shimmering). Add **onion**, **garlic**, **ginger**, and **chile**. Cook, stirring frequently, and scraping bottom of pan until golden brown and starting to burn in spots, about 10 minutes. Add **cayenne**, **cashews**, and 1/2 tablespoon **Garam Masala**. Cook, stirring constantly until fragrant, about 30 seconds. Add **coconut milk** and remove from heat. Scrape up any browned bits from bottom of pan.
+3. Transfer mixture to blender and starting a low speed, slowly increase speed to maximum. Blend until smooth, about 30 seconds. Return mixture to pot. Add **chickpeas**, **spinach**, and remaining 1/2 tablespoon **Garam Masala** and cook over low heat, stirring constantly, until vegetables are heated through and spinach is wilted, about 10 minutes. Add **salt** and **lime juice** to taste. Stir in half of **cilantro**. Transfer to serving bowl, sprinkle with extra **cilantro**, and serve with **lime wedges**, **basmati rice pilaf**, **grilled naan**, and **cilantro chutney**, as desired.

@@ -27,8 +27,7 @@ The perfect scoop of ice cream begins here. In minutes you have the foundation f
 
 # Method
 1. Combine the **sugar**, **dry milk**, and **xanthan gum** in a small bowl and stir well.
-2. Pour the **corn syrup** into a medium pot and stir in the **whole milk**.
-3. Add the sugar mixture and immediately whisk vigorously until smooth.
+2. Pour the sugar mixture into a medium pot and stir in the **whole milk** whisk vigorously until smooth.
 4. Set the pot over medium heat and cook, stirring often and adjusting the heat if necessary to prevent a simmer, until the sugar has fully dissolved, about 3 minutes.
 5. Remove the pot from the heat.
 6. Add the **cream** and whisk until fully combined.
