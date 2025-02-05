@@ -42,3 +42,4 @@ This venison chili recipe is a hearty and flavorful dish that is perfect for a c
 1. **Brown ground beef** in a little oil
 2. Add **onion**, **peppers**, and **soyrizo** and **sauté** until soft
 3. Add **tomatoes**, **rotel**, **beans**, and **seasonings**
+4. 1. Simmer for 1 hour. Optionally pressure cook

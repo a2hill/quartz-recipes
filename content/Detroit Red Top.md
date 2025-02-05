@@ -18,6 +18,7 @@ Detroit-style pizza is a rectangular, thick, and fluffy pizza with a crispy gold
 ---
 
 ### Notes
+* do brick all the way next time, no cheddar, do Kenji's dough, or like a focaccia 
 * Didn’t quite get the dough to the corners
 * Used the cup n crisp pepperoni, both bold and not. Didn’t notice too much of a difference after cook
 
