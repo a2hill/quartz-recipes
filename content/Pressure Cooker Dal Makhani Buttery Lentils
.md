@@ -20,6 +20,7 @@ Make restaurant-style Indian Dal Makhani at home in your pressure cooker. Smooth
 - [ ] 2 Bay Leaves
 - [ ] 1 tablespoon Minced Garlic
 - [ ] 2 teaspoons Minced Ginger
+- [ ] 1 can diced tomatoes, drained
 - [ ] 1 teaspoon Kosher Salt
 - [ ] 1/2 teaspoon Turmeric
 - [ ] 1/2 teaspoon Ground Coriander
@@ -36,10 +37,11 @@ Make restaurant-style Indian Dal Makhani at home in your pressure cooker. Smooth
 ---
 # Method
 1. Wash the **dal** well and drain.
-2. Add **dal**, **bay leaves**, **ginger**, **garlic**, and **water** to your Instant Pot.
-3. Set the Instant pot or pressure cooker to high pressure for 30 minutes. Allow the pot to release pressure naturally for 10 minutes, and then release all remaining pressure.
+2. Add **dal**, **bay leaves**, **ginger**, **garlic**, and tomatoes to the instant pot, sauté for a few minutes
+3. Add **water** to your Instant Pot and set the Instant pot or pressure cooker to high pressure for 30 minutes. Allow the pot to release pressure naturally for 10 minutes, and then release all remaining pressure.
 4. Meanwhile, mix together the **yogurt**, remaining **spices**, and **milk/cream** of choice.
 5. When the **dal** is ready, open up the Instant Pot and using the back of a spoon, gently mash in some of the **dal** to make a thicker **dal**, leaving most of the **dal** intact.
+	1. Alternatively take some out and hit it with the immersion blender 
 6. Turn your Instant Pot onto its Keep Warm Setting, adding a little water if needed.
 7. Heat a small saucepan or tadka ladle, add **ghee** when hot, and add in the **cumin seeds** which will start to sputter.
 8. Put in the **tomato paste** and cook it for a while, until it absorbs all of the **ghee**.
