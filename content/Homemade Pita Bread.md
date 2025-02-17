@@ -37,7 +37,7 @@ This recipe for homemade pita bread is easy to follow and produces delicious, fl
 5. Divide the dough into 6 equal pieces and roll each piece into a smooth ball.
 6. Place the dough balls between 2 towels and let them rise for 7 minutes.
 7. Lightly flour a surface and roll each dough ball into a thin pita, about 3 mm thick.
-8. Place the pitas on a towel and cover with another towel, letting them rise for half an hour.
+8. Place the pitas on a towel and cover with another towel, letting them rise for 30 min.
 9. Heat a non-stick pan over medium heat for 5 minutes.
 10. Gently transfer a pita to the pan with the side that was on the towel touching the pan first.
 11. Wait about 15-20 seconds until small bubbles form, then flip the pita.
