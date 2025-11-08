@@ -1,16 +1,19 @@
 ---
-up: "[[index]]"
+up: "[[Sausage]]"
 tags:
   - "#sausage"
-prep time: 
-cook time: 
-source: 
+prep time:
+cook time:
+source:
 participants:
 ---
 ## Description
 
 ---
 ## Notes
+>[!11-2-25]+
+> Used whatever brisket meat trimmings I had and subtracted it from the pork weight
+> Used brisket fat (from trimmings) instead of pork fat 
 ### 2023-11-12
 * Made 2kg, limiting factor was cheese
 ___
@@ -20,12 +23,13 @@ ___
 - [ ] Pork Fat - 67g (remaining 5% fat)
 * [ ] 130g American cheese cubed into 1/4" 
 	* Got it chunked from the deli at Fred
-* [ ] 37.5g Jalapeño, coarsely chopped (will depend on spice level)
-	* We just sent it through the stick blender food processor for a bit
+* [ ] 37.5g Jalapeño, sent through the grinder (will depend on spice level)
+	* Include some with seeds for more spice
 * [ ] 20g salt
 * [ ] 3.5g garlic paste
 * [ ] 3g Black pepper
-* [ ] 100g liquid (water)
+* [ ] 100g liquid (water is fine, good chicken stock is best)
+	* If you are going to use stock, and if it is salted, backoff the salt a bit (1.8%)
 ---
 ## Method
 1. Salt meat and fat overnight
