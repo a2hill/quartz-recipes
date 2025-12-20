@@ -1,0 +1,15 @@
+{
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string",
+        "description": "The title of the recipe"
+      },
+      "body": {
+        "type": "string",
+        "description": "The markdown text for the recipe"
+      }
+    },
+    "required": ["title", "body"],
+    "additionalProperties": false
+}
