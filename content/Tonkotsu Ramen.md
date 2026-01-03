@@ -8,6 +8,7 @@ prep time: Quick to assemble, but look up the ingredients
 cook time:
 source: https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit?tab=t.0#heading=h.630l4m8xqvdo
 participants: []
+related:
 ---
 ## Description
 Makes one bowl

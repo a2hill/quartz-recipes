@@ -1,10 +1,15 @@
 ---
 up: "[[index]]"
 tags:
+  - "#ramen"
+  - "#japanese"
+  - "#green-onion"
 prep time:
 cook time: 10 minutes
 source:
 participants: []
+related:
+  - "[[Tonkotsu Ramen]]"
 ---
 ## Description
 If this is your first exposure to aroma oil, this is an easy way to see how the process works, and it’s versatile for several ramen styles without requiring any complex ingredients. It works on lighter bowls and more rich ones. As a bonus, you can use this stuff in all sorts of dishes. Fried rice, sear chicken in it, toss it with a salad. All tasty.

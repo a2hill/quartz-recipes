@@ -5,6 +5,8 @@ prep time:
 cook time:
 source: Ramen_Lord -> Derek Gallanosa
 participants: []
+related:
+  - "[[Tonkotsu Ramen]]"
 ---
 ## Description
 Derek's take on Ramen_Lord's tare

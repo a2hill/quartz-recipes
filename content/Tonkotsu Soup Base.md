@@ -7,6 +7,8 @@ tags:
   - "#soup"
 source: "[The Ramen_Lord Book of Ramen](https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit?tab=t.0#heading=h.630l4m8xqvdo)"
 cook time: 26 hours
+related:
+  - "[[Tonkotsu Ramen]]"
 ---
 ## Description
 From The Ramen_Lord book of ramen.

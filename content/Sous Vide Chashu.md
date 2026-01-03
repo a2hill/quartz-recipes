@@ -8,6 +8,8 @@ prep time:
 cook time: 7.5-12 hours
 source: https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit?tab=t.0#heading=h.630l4m8xqvdo
 participants: []
+related:
+  - "[[Tonkotsu Ramen]]"
 ---
 ## Description
 Sous vide is an incredible tool for chashu. It allows you to produce meat that is both exceptionally tender, well structured, and gorgeously pink, while still being fully cooked and safe to eat. This is a fantastic way to make chashu, and most high-end shops are pivoting to this approach, because it allows them to cook with marvelous consistency.

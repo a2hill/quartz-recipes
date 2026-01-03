@@ -8,6 +8,8 @@ prep time:
 cook time: 4.5-6.5 hours
 source: https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit?tab=t.0#heading=h.630l4m8xqvdo
 participants: []
+related:
+  - "[[Tonkotsu Ramen]]"
 ---
 ## Description
 This is the generally accepted approach for eggs in most Japanese kitchens. It’s simple and doesn’t require a lot of precision. Just be sure to pull the eggs out after 4-6 hours to avoid over-saturating them in the brine.
