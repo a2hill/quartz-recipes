@@ -2,36 +2,45 @@
 up: "[[index]]"
 tags:
   - soup
-  - italian
-  - gluten-free
-prep time: 
-cook time: 
-source: https://paleomg.com/creamy-tortellini-soup/
+  - tortellini
+  - sausage
+  - kale
+prep time: 30 minutes
+cook time: 30 minutes
+source: https://cooking.nytimes.com/recipes/1026148-creamy-tortellini-soup?smid=ck-recipe-iOS-share
 related: []
-participants: [] 
+participants: []
 
 ---
 # Description
-This creamy tortellini soup is a hearty and flavorful dish that is perfect for a cold day. It is made with hot Italian sausage, fresh vegetables, and gluten-free tortellini, all simmered in a rich chicken bone broth. The addition of heavy cream or coconut cream adds a creamy and indulgent touch to this comforting soup.
+Store-bought, cheese-filled tortellini are immersed in an extra creamy tomato broth alongside Italian sausage and Tuscan (lacinato) kale, creating a hearty and comforting soup that comes together in 30 minutes. Paprika and dried fennel seeds give the soup an unexpected flavor profile that enhances the sweet creamy tomato broth. Kale is added in the last few minutes of cooking, ensuring it keeps enough of its bite. Lemon juice finishes off the soup, bringing a hint of brightness at the very end. Endless subs and additions are welcome for this recipe, with kale easily replaced with spinach, Swiss chard or cabbage. The sausage can be left out for a vegetarian option and the heavy cream can be subbed with whole milk or non-dairy cream for a lighter broth. And of course, the tortellini can be replaced with ravioli, which are basically the same thing, but shaped differently.
 
 ---
 # Ingredients
-- [ ] 1lb hot Italian sausage
-- [ ] 1/2 yellow onion, diced
-- [ ] 3 large carrots, diced
-- [ ] 3 garlic cloves, sliced
-- [ ] 1 teaspoon salt
-- [ ] 2 tablespoons fresh thyme
-- [ ] 2 tablespoons fresh rosemary, roughly chopped
-- [ ] 2 tablespoons gluten free flour
-- [ ] 48oz chicken bone broth
-- [ ] 9oz gluten free tortellini
-- [ ] 1 bundle kale, roughly chopped
-- [ ] 1/2 teaspoon black pepper
-- [ ] 3 tablespoons heavy cream or coconut cream
+- [ ] 1 tablespoon olive oil
+- [ ] 1 pound loose sweet Italian sausage or sausage links, casings removed (optional)
+- [ ] 1 medium white or yellow onion, diced
+- [ ] 6 garlic cloves, minced
+- [ ] 1 teaspoon paprika
+- [ ] 1/2 teaspoon dried fennel seeds
+- [ ] Salt and black pepper
+- [ ] Crushed red pepper
+- [ ] 2 tablespoons tomato paste
+- [ ] 1 (28-ounce) can tomato purée
+- [ ] 8 cups (64 ounces) vegetable or chicken stock
+- [ ] 1 (9- to 10-ounce) package refrigerated or frozen cheese tortellini
+- [ ] 1 1/4 cup heavy cream
+- [ ] 1 bunch Tuscan (lacinato) kale, leaves stripped and chopped
+- [ ] 1/2 cup roughly chopped fresh basil
+- [ ] 1 lemon, juiced
+- [ ] Grated Parmesan, for serving
 
 ---
 # Method
-1. Place **Italian sausage** in a large soup pot, break into small pieces, and cook until no pink remains. Remove sausage and set aside.
-2. Add **onion** and **carrots** to the pot. Cook for 5-7 minutes, until onions become translucent and fragrant. Add **garlic cloves**, **salt**, **thyme**, and **rosemary**, and cook for 5 more minutes. Add **flour** to the pot and toss to combined. Then add **broth** and mix to combined. Cover and bring to a low boil.
-3. Add tortellini, kale, and black pepper. Mix to combined then cook for 5 minutes. Once the tortellini is cooked through, add the sausage and heavy cream and cook for 2 more minutes to heat through. Taste to see if the soup needs any extra salt before serving.
+1. If using the sausage, heat the **olive oil** in a large pot or Dutch oven over medium-high (if not using sausage, heat the oil on medium, then proceed to Step 2.) Add the **sausage** and cook, breaking it up with a spoon as you go, until it is browned, 5 to 9 minutes. Push the sausage to one side of the pot and spoon out any excess grease, leaving about 2 tablespoons behind.
+
+2. If necessary, adjust heat to medium, then add **onion**, **garlic**, **paprika**, **fennel**, 11/2 teaspoons each **salt** and **black pepper**, and a pinch of **crushed red pepper**, and cook, stirring, for 2 minutes, until the onion is just softened and everything is fragrant. Add the **tomato paste** and cook, stirring, until it darkens, 2 to 3 minutes. Adjust heat to high, stir in **tomato purée** and **stock**, cover the pot and bring to a gentle boil, then add the **tortellini** and cook until tender, 2 to 3 minutes (1 minute longer if frozen).
+
+3. Add the **heavy cream**, **kale** and **basil**, and cook, stirring, until warmed through and the kale and basil are just wilted, 2 minutes more. Remove from heat and add the **lemon juice**. Stir to incorporate, then taste and season with **salt** and **pepper** as needed.
+4. Serve warm topped with plenty of grated Parmesan. Soup can be refrigerated for up to 5 days or frozen for up to 3 months.
+
