@@ -3,13 +3,15 @@ up: "[[index]]"
 tags:
   - pizza
   - dough
-prep time: 
-cook time: 
+prep time:
+cook time:
 source: The Pizza Bible
 participants:
   - Tony Gemignani
 related:
   - "[[Chicago Deep-Dish Dough]]"
+  - "[[Fully Stuffed Chicago Style Pizza]]"
+  - "[[Same Day Chicago Style Deep Dish Dough]]"
 ---
 # Description
 This dough is the same one I use for deep-dish pizza, but I've given you the proportions for both the bottom and top crust. You'll need to make one and a half times as much of it, so you will have enough for both.
@@ -32,4 +34,5 @@ This dough is the same one I use for deep-dish pizza, but I've given you the pro
 4. Form the pieces into balls (see Balling the Dough, page 26).
 5. Set the balls 3 inches apart on a half sheet pan.
 6. Wrap the pan and refrigerate as directed for Chicago Deep-Dish Dough.
-Note on Making Vegetarian Deep-Dish Dough: You can substitute 18 grams vegetable shortening for the lard.
+
+Note on Making Vegetarian Deep-Dish Dough: You can substitute vegetable shortening for the lard.
