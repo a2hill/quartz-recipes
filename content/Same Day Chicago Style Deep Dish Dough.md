@@ -14,10 +14,10 @@ related:
   - "[[Chicago Stuffed Dough]]"
 ---
 # Description
-This is a modified version of the [[Chicago Stuffed Dough]] made to be done in a single day. I've used the Ooni dough calculator to get the yeast amounts right based on the time available. I've also shunk the amount of dough that it makes because the original [[Fully Stuffed Chicago Style Pizza]] uses a 12" pan and I have a 10" pan. 
+This is a modified version of the [[Chicago Stuffed Dough]] made to be done in a single day. I've used the Ooni dough calculator to get the yeast amounts right based on the time available. I've also shunk the amount of dough that it makes because the original [[Fully Stuffed Chicago Style Pizza]] uses a 12" pan and I have a 10" pan. This one makes a total of 1000g of dough, one 350 ball and another 650g ball
 # Ingredients
 - [ ] 1.75 gram (.3%) instant yeast
-- [ ] 80 grams (22.5%) (14 cup plus 2 tablespoons) warm water (80°F to 85°F)
+- [ ] 80 grams (22.5%) warm water (80°F to 85°F)
 - [ ] 557 (95%) grams all-purpose flour with 12 percent protein, preferably Ceresota
 - [ ] 30 (5%) grams medium-grind cornmeal
 - [ ] 11.75 (2%) grams diastatic malt
