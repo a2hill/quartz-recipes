@@ -4,7 +4,7 @@
 - [ ] 2 tablespoons dried rosemary leaves (broken or crushed a bit by hand)
 - [x] 1 tablespoon whole mustard seeds
 - [x] 1 tablespoon ground black pepper
-- [ ] 1 tablespoon [paprika](https://amazingribs.com/more-technique-and-science/more-ingredients-glossaries/science-chiles-peppers-and-hot-sauces/)
+- [x] 1 tablespoon [paprika](https://amazingribs.com/more-technique-and-science/more-ingredients-glossaries/science-chiles-peppers-and-hot-sauces/)
 - [x] 1 teaspoon ground bay leaves
 
 ## Process
