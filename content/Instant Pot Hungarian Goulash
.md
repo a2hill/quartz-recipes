@@ -3,50 +3,59 @@ up: "[[index]]"
 tags:
   - american
   - diabetic
-prep time: 15 minutes
-cook time: 45 minutes
+prep time: 20 minutes
+cook time: 1 hour 15 minutes
 source:
 related: []
 participants: []
 ---
 # Description
-Instant pot Hungarian Goulash is an amazing one-pot comfort meal. With tender chunks of **beef** cooked in a rich broth and seasoned with **Sweet Hungarian Paprika**, this is sure to become one of your new favorites.
+Instant Pot Hungarian Beef Stew / Goulash is a hearty one-pot comfort meal. Tender chunks of **beef** cook in a rich paprika broth with **potatoes**, **carrots**, and aromatics. Yield: 6–8 servings.
 
 ---
 # Ingredients
-- [ ] 2 pounds **sirloin** cut into roughly one-inch cubes, **stew** or **chuck** can be used as well
-- [ ] 1 teaspoon **garlic powder**
-- [ ] ½ teaspoon **salt**
-- [ ] ½ teaspoon **pepper**
-- [ ] 2 **onions** sliced
-- [ ] 1 **bell pepper** chopped
-- [ ] 1 tablespoon **garlic** minced
-- [ ] ½ cup red wine (can use broth to deglaze instead)
-- [ ] ¼ cup **sweet Hungarian paprika**
-- [ ] 2 cups **beef broth**
-- [ ] 1 tablespoon **tomato paste**
-- [ ] 1 teaspoon **oregano**
-- [ ] 1 **bay leaf**
-- [ ] 4 **carrots** peeled and sliced thick
-- [ ] 1 ½ pounds baby **potatoes** cut in half, if very small can be left whole
+- [ ] 3 pounds boneless **beef chuck roast**, cut into 3–4 pieces
+- [ ] 2 teaspoons fine sea salt
+- [ ] Black pepper, to taste
+- [ ] 2 tablespoons vegetable oil
+- [ ] 1 large yellow **onion**, thinly sliced
+- [ ] 2 celery stalks, thinly sliced
+- [ ] 4 large **garlic** cloves, thinly sliced
+- [ ] ⅓ cup édes (sweet) Hungarian paprika
+- [ ] 2 heaping tablespoons smoked paprika
+- [ ] 1 teaspoon csípős (hot) paprika, optional
+- [ ] 2 teaspoons caraway seeds
+- [ ] 1 tablespoon tomato paste
+- [ ] 1 (28-ounce) can diced tomatoes, drained
+- [ ] 6 cups low-sodium chicken stock, or water
+- [ ] 2 tablespoons all-purpose flour
+- [ ] 1 pound small new **potatoes**, peeled if desired and cut into ½-inch pieces
+- [ ] 4 large **carrots**, peeled and cut into ½-inch chunks
+- [ ] 2 parsnips, optional, peeled and cut into ½-inch chunks
+- [ ] 1–2 tablespoons apple cider vinegar, to taste
+- [ ] Sour cream, for serving
+- [ ] Chopped fresh dill, for serving
 
 ---
 # Method
-1. Preheat the Instant Pot to saute.
-2. Add a small amount of oil to the pot once it is preheated.
-3. Season the **beef** with **garlic powder**, **salt**, and **pepper**.
-4. Cook until the meat is browned.
-5. Remove to a plate.
-6. Add additional oil if needed, then add the sliced **onions** and chopped **bell pepper**.
-7. Cook until softened.
-8. Add the minced **garlic** and saute until fragrant.
-9. Pour in the **red wine**, and deglaze the pot.
-10. If not using wine, then use some of the **beef broth** to deglaze the pan.
-11. Cook until the wine is reduced by about half.
-12. Return the browned meat to the pot.
-13. Add in the **Sweet Hungarian Paprika**, **oregano**, **bay leaf**, and **tomato paste**.
-14. Stir to coat everything.
-15. Pour in the **beef broth**.
-16. Add the **carrots** and **potatoes** and stir to combine everything together.
-17. Cook on high pressure for 15 minutes followed by a 10-minute natural pressure release.
-18. Serve immediately, or store in an airtight container for up to one week.
+1. Season the **beef** all over with the salt and black pepper.
+2. Preheat the Instant Pot to saute.
+3. Add half of the vegetable oil to the pot once it is preheated.
+4. Brown the **beef** in batches, then remove and set aside.
+5. Add the remaining oil if needed, then add the **onion** and celery.
+6. Cook, stirring occasionally, until softened, about 10 minutes.
+7. Scrape up any browned bits from the bottom of the pot.
+8. Add the **garlic** and stir to coat.
+9. Stir in the sweet Hungarian paprika, smoked paprika, hot paprika if using, caraway seeds, and tomato paste.
+10. Cook until fragrant, about 1 minute.
+11. Add the drained tomatoes and chicken stock.
+12. Bring to a simmer and cook, covered, for about 20 minutes on low heat.
+13. Toss the browned **beef** with the flour.
+14. Add the **beef** back into the pot along with the **potatoes**, **carrots**, and parsnips if using.
+15. Stir well.
+16. Seal the lid.
+17. Cook on the Stew setting, or Manual/Pressure Cook on High, for 25 minutes.
+18. Allow a 10-minute natural pressure release, then carefully perform a quick pressure release.
+19. If needed, thicken with a cornstarch slurry.
+20. Stir in apple cider vinegar to taste.
+21. Serve hot with sour cream and chopped fresh dill.
