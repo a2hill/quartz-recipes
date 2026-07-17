@@ -11,7 +11,7 @@ prep time:
 cook time: 
 source: <!-- url of recipe of available -->
 related: []
-participants: [] <!-- leave blank -->
+participants: [] 
 
 ---
 # Description
