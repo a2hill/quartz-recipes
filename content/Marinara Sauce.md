@@ -5,7 +5,7 @@ tags:
   - tomato
 prep time: 
 cook time: 
-source: https://www.reddit.com/r/Cooking/comments/8g0i5j/recipe_scalable_fresh_tomato_sauce/
+source: https://www.reddit.com/r/recipes/s/wwrD3gQSaK
 related: []
 participants: [] 
 
