@@ -58,12 +58,18 @@ Butter Crust Pan Dough Recipe adapted for a single 650g pizza suitable for a 12"
 * Split this recipe into its own file
 * Using 00 instead of bread flour due to not having the overnight rest
 * Also not going to bar bake to see if that helps with the top bubbling and the bottom over cooking
+### Liked
+* Best crust to date
+* Nice tender crumb
+* Great bottom crisp at 20 minutes, probably could have gone a few minutes longer but the frico was getting dark (was a mix of mozz and brick)
+### Disliked
+* Nothing really, maybe a more open crumb but that has more to do with hydration than anything
 ---
 # Ingredients
 * [ ] 365g 00 Flour
 * [ ] 11g sea salt
-* [ ] 237g 60-72 degree water
-* [ ] 1.12g Instant yeast
+* [ ] 237g 85 degree water
+* [ ] 1.4g Active dry yeast (1.12 for Instant)
 * [ ] 79g unsalted butter; divided
 ---
 # Method
@@ -75,7 +81,6 @@ Butter Crust Pan Dough Recipe adapted for a single 650g pizza suitable for a 12"
 6. Remove the chilled butter from the refrigerator. Gradually add it to the rested dough and combine by gently stretching and folding. Continue for 10 minutes, then transfer to a lightly oiled container. Cover with plastic wrap and rest for 3 hours at room temperature.
 7. Using the 43 grams room temperature butter, grease 1 (12-inch/30-cm diameter) round deep-dish pans and set aside (or 13.5"x10" Lloyd pan).
 8. Shape dough into a ball by folding it in on itself. Transfer the dough to the buttered pan. Cover pan with plastic wrap and allow to rest at room temperature for 3 hours.
-9. Lift the dough and press out any air from the bottom of the pan. Using your fingertips, gently dimple the entire length of the dough. Cover and proof for another hour.
-10. **Optional:** To par-bake, preheat the oven with pizza stones to 475°F (250°C).
-11. Remove the cover and par-bake the un-topped dough for 10 minutes. Note: Sometimes I par-bake, sometimes I don't. I like both methods, so you should try each method for yourself. Just add 10 minutes to the bake time if you skip the par-bake.
+9. Lift the dough and press out any air from the bottom of the pan. Using your fingertips, gently dimple the entire length of the dough. Cover and proof for another hour to hour and a half.
+10. Top and bake on top of the pizza stone at 475°F (250°C) for about 20 minutes
 ---

@@ -14,6 +14,8 @@ related:
 # Description
 
 This recipe is for a tomato flavor bomb and robust tomato sauce that can be used to add depth of flavor to any dish, especially pizza sauce. It is easy to make and will make your kitchen smell incredible.
+# Notes
+* Try adding fresh garlic after it finishes baking for a brighter zip
 # Ingredients
 
 - 15 to 20 cloves garlic, peeled, or about 50 grams
